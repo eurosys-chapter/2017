@@ -2,7 +2,7 @@
 layout: default
 title: Call for Shadow PC Participation
 permalink: /calls/shadow
-published: false
+published: true
 ---
 
 # Call for Shadow PC Participation

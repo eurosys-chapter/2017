@@ -43,7 +43,7 @@ Major tourist attractions (beyond food and nightlife) include: Kalemegdan with B
 
 Belgrade is easily reachable by plane. Belgrade Nikola Tesla airport (BEG) is well connected with daily flights to practically all major European cities, including Amsterdam, Frankfurt, London, Munich, Paris, Vienna, Zurich, which also connect Belgrade to many destinations in North America.
 
-Notice that direct flights to US (New York, JFK airport) are scheduled to start in June 2016.   
+Air Serbia operates direct flights from Belgrade to New York (JFK), 5 times a week.   
 
 Belgrade Nikola Tesla airport is also served by low-cost airlines EasyJet and Wizz Air.
 

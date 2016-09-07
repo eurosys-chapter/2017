@@ -28,6 +28,10 @@ published: true
 ## Publicity Chair
 * [Vivien Quéma](http://lig-membres.imag.fr/quema/), INP Grenoble
 
+## Shadow PC Chairs
+* [Allen Clement](http://www.mpi-sws.org/~aclement/), Google
+* [Vivien Quéma](http://lig-membres.imag.fr/quema/), INP Grenoble
+
 ## Sponsor Chairs
 * [Aleksandar Dragojević](http://research.microsoft.com/en-us/people/alekd/), Microsoft Research 
 * [Amitabha Roy](https://sites.google.com/site/amitabharoy/), Intel Labs

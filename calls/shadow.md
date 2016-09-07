@@ -15,7 +15,7 @@ paragraph describing your current research, areas of expertise, and
 publications: this will help us with selecting candidates and assigning papers 
 for review. Please also get in touch if you have any queries.
 
-##Principle
+## Principle
 
 
 Being on a shadow PC is an excellent opportunity for young systems researchers
@@ -60,7 +60,7 @@ it is also very rewarding and worthwhile for a number of reasons, including:
 
 
 
-##Important Dates
+## Important Dates
 
 
  - Deadline to apply for shadow PC: September 30, 2016

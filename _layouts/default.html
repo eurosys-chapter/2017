@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include main_navbar.html %}
+
+    <div class="container main-content">
+
+      <div class="banner">
+        <img src="/assets/img/banner.jpg" class="img-responsive" alt="Belgrade image banner"/>
+        <div class="">
+          <div class="eurosys_banner_caption eurosys_logo">
+            Euro<span class="sys">Sys</span><span class="banner_year"> 2017</span>
+          </div>
+        </div>      
+        <div class="">
+          <div class="eurosys_banner_caption eurosys_location_date">
+            April 23-26, 2017<br><span class="banner_location">Belgrade, Serbia</span>
+          </div>
+        </div>
+        <div class="banner_copyright">
+          Kalemegdan and Confluence of Sava and Danube, by Lošmi (Own work) [CC BY-SA 3.0], via Wikimedia Commons
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-9 col-xs-12">
+          {{ content }}
+        </div>  
+
+        <div class="col-md-3 col-xs-12 hideinprint">
+          {% include sidebar.html %}
+        </div>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    {% include footer.html %}
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+

@@ -1,0 +1,91 @@
+<h2>Social</h2>
+<a href="https://www.facebook.com/eurosys2015">
+    <img src="/assets/img/fb.png">
+</a>
+<a href="https://twitter.com/eurosys2015">
+    <img src="/assets/img/twitter.png">
+</a>
+
+
+<h2>News</h2>
+{% for post in site.posts limit:2 %}
+    <a href="/news">{{ post.title }}</a>
+    <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+{% endfor %}
+
+<!-- 
+a.twitter-timeline{:href => 'https://twitter.com/EuroSys2015', :data => { :widget => { :id => '454563798955720704'}}}
+                            Tweets          
+                            :javascript
+                                !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+-->
+
+<h2>Supporters</h2>
+                        
+<h3>Platinium</h3>                            
+<div class="logo platinium">
+    <a href="http://www.vmware.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/vmware.png">
+    </a>
+</div>
+<div class="logo platinium">
+    <a href="http://www.huawei.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/huawei.jpg">
+    </a>
+</div>
+
+<h3>Gold</h3>
+<div class="logo gold">
+    <a href="http://www.cisco.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/cisco.jpg">
+    </a>
+</div>
+
+<h3>Silver</h3>
+<div class="logo silver">
+    <a href="http://research.google.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/google.jpg">
+    </a>
+</div>
+<div class="logo silver">
+    <a href="https://labs.oracle.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/oracle.jpg">
+    </a>
+</div>
+
+<div class="logo silver">
+    <a href="http://www.intel.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/intel.png">
+    </a>
+</div>
+
+<div class="logo silver">
+    <a href="http://www.hp.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/hp.jpg">
+    </a>
+</div>
+
+<div class="logo silver">
+    <a href="http://research.microsoft.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/microsoft.png">
+    </a>
+</div>
+
+<h3>Bronze</h3>
+<div class="logo bronze">
+    <a href="http://www.technicolor.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/technicolor.png">
+    </a>
+</div>
+
+<div class="logo bronze">
+    <a href="http://www.bromium.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/bromium.png">
+    </a>
+</div>
+
+<div class="logo bronze">
+    <a href="http://www.facebook.com" target="_blank">
+        <img class="img-responsive" src="/assets/img/facebook.png">
+    </a>
+</div>

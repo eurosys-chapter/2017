@@ -1,0 +1,51 @@
+<footer class="footer hideinprint">
+  <div class="container">
+    <span class="footer-title pull-left">Organization:</span>
+    <div class="logo-footer">
+      <a href="http://www.acm.org/">
+        <img class="img-responsive" src="/assets/img/eurosys.png">
+      </a>
+    </div>
+    <div class="logo-footer">
+      <a href="https://www.usenix.org/">
+        <img class="img-responsive" src="/assets/img/usenix.png">
+      </a>
+    </div>
+    <span class="footer-title pull-left">Partners:</span>
+    <div class="logo-footer">
+      <a href="http://www.aquitaine.fr/">
+        <img class="img-responsive" src="/assets/img/cra.png">
+      </a>
+    </div>
+    <div class="logo-footer">
+      <a href="http://www.bordeaux-metropole.fr/">
+        <img class="img-responsive" src="/assets/img/bdx-metropole.jpg">
+      </a>
+    </div>
+    <div class="logo-footer">
+      <a href="http://www.labri.fr/">
+        <img class="img-responsive" src="/assets/img/labri.jpg">
+      </a>
+    </div>
+    <div class="logo-footer">
+      <a href="http://www.u-bordeaux.fr/">
+        <img class="img-responsive" src="/assets/img/ub.jpg">
+      </a>
+    </div>
+    <div class="logo-footer">
+      <a href="http://www.cnrs.fr/">
+        <img class="img-responsive" src="/assets/img/cnrs.jpg">
+      </a>
+    </div>
+    <div class="logo-footer">
+      <a href="http://www.inria.fr/">
+        <img class="img-responsive" src="/assets/img/inria.png">
+      </a>
+    </div>
+    <div class="logo-footer">
+      <a href="http://www.bordeaux-inp.fr/">
+        <img class="img-responsive" src="/assets/img/inp.jpg">
+      </a>
+    </div>
+  </div>
+</footer>

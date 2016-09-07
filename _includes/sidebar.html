@@ -1,0 +1,14 @@
+<h2>Social</h2>
+<a href="https://www.facebook.com/eurosys2017">
+    <img src="/assets/img/fb.png">
+</a>
+<a href="https://twitter.com/eurosys2017">
+    <img src="/assets/img/twitter.png">
+</a>
+
+
+<h2>News</h2>
+{% for post in site.posts limit:2 %}
+    <a href="/news">{{ post.title }}</a>
+    <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+{% endfor %}

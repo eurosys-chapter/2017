@@ -1,0 +1,217 @@
+---
+---
+
+@import "bootstrap";
+
+@media print {
+    a[href]:after {
+      content: normal;
+    }
+    .hideinprint {
+      display: none;
+    }
+}
+
+
+html {
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Verdana, Arial, sans-serif;
+  /* Margin bottom by footer height */
+  /* margin-bottom: 60px; */
+}
+
+.footer {
+  bottom: 0;
+  /* Set the fixed height of the footer here */
+  min-height: 100%;
+  height: 100%;
+  width: 100%;
+  background-color: #f5f5f5;
+  margin-top: 19px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.container {
+}
+
+.main-content {
+  min-height: 100%;
+  height: 100%;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+p {
+  text-align: justify;
+}
+
+.outdated {
+  text-decoration: line-through;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  clear: both;
+  padding-bottom: 0.25em;
+  font-variant: small-caps;
+}
+
+h2, h3 {
+  #color: rgb(192, 48, 48);
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  font-style: italic;
+}
+
+h4 {
+  font-size: 18px;
+  color: black;
+}
+
+div.logo {
+  margin: 0;
+  padding: 10px;
+}
+
+div.logo img {
+  display: block;
+  margin: auto;
+}
+
+div.logo img.square {
+  width: 80px;
+}
+
+div.logo img.rect {
+  height: 60px;
+}
+
+div.social {
+  float: left;
+}
+
+.platinium img {
+  max-width: 250px;
+  max-height: 80px;
+}
+
+.gold img {
+  max-width: 200px;
+  max-height: 70px;
+}
+
+.silver img {
+  max-width: 150px;
+  max-height: 60px;
+}
+
+.bronze img {
+  max-width: 100px;
+  max-height: 50px;
+}
+
+.right {
+  margin-left: 10px;
+}
+
+.left {
+  margin-right: 10px;
+}
+
+.center {
+  margin: auto;
+}
+
+div.logo-footer {
+  padding: 10px;
+  float: left;
+}
+
+div.logo-footer img.rect {
+  height: 40px;
+}
+
+div.logo-footer img.square {
+  width: 40px;
+}
+
+div.logo-footer img {
+  max-width: 100px;
+  max-height: 40px;
+}
+
+.footer .container .footer-title:not(:first-child) {
+  margin-left: 1em;
+}
+
+.footer-title {
+  padding-top: 15px;
+  font-size: 18px;
+  font-variant: small-caps;
+}
+
+.header-logo {
+  color: #f5f5f5;
+}
+
+.eurosys_banner_caption {
+  position: absolute;
+  color: #fff;
+  font-family: 'Verdana-Bold', 'Verdana', 'Geneva', sans-serif;
+  font-weight: bold;
+  font-variant: small-caps;
+  text-shadow: #666666 1px 1px 4px;
+}
+
+.eurosys_logo {
+  bottom: 5%;
+  left: 2%;
+  font-size: 6vmin;//42px;//36//24
+}
+.eurosys_location_date {
+  right:5%;
+  top: 2vmin;
+  //top: 35%;
+  font-size: 3vmin;//24px;//18px;
+  line-height: 95%;
+}
+
+.sys, .banner_location{
+  color: #ffcc00;
+}
+
+.banner_year {
+  font-size: 3vmin;//24px;//18px;
+}
+
+.banner {
+  position:relative;
+}
+
+.banner_copyright {
+ position: absolute;
+ font-size: 1vmin;
+ color: #ddd;
+ bottom: 4px;
+ right: 4px;
+}
+
+.clear {
+  clear: both;
+}

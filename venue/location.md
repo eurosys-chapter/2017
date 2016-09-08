@@ -10,14 +10,14 @@ published: true
 ## Conference venue
 
 ![Crowne Plaza Belgrade](/assets/img/crowne_plaza_small.jpg){:class='img-thumbnail pull-right right'}
-The conference will be held in the [Crowne Plaza 4* hotel](https://www.ihg.com/crowneplaza/hotels/us/en/belgrade/begcp/hoteldetail) ([Booking.com rating 9.0/10](http://www.booking.com/hotel/rs/crowne-plaza-belgrade-belgrade.en-gb.html?aid=356992;label=gog235jc-hotel-XX-rs-crowneNplazaNbelgradeNbelgrade-unspec-ch-com-L%3Aen-O%3Aabn-B%3Afirefox-N%3AXX-S%3Abo-U%3AXX;sid=6bb20bf170d8b300eefdbf4c9716122d;dcid=12;dist=0&sb_price_type=total&type=total&)). 
+The conference will be held in the <a href="https://www.ihg.com/crowneplaza/hotels/us/en/belgrade/begcp/hoteldetail" target="_blank">Crowne Plaza 4* hotel</a> (<a href="http://www.booking.com/hotel/rs/crowne-plaza-belgrade-belgrade.en-gb.html?aid=356992;label=gog235jc-hotel-XX-rs-crowneNplazaNbelgradeNbelgrade-unspec-ch-com-L%3Aen-O%3Aabn-B%3Afirefox-N%3AXX-S%3Abo-U%3AXX;sid=6bb20bf170d8b300eefdbf4c9716122d;dcid=12;dist=0&sb_price_type=total&type=total&" target="_blank">Booking.com rating 9.0/10</a>). 
 
 Belgrade Crowne Plaza is conveniently located at the heart of „New Belgrade“, Belgrade’s dynamic business district located on the river Sava. The hotel is located 15 km from the Nikola Tesla Belgrade airport, and a short drive from main tourist attractions (e.g., 3km from Kalemegdan and Belgrade Fortress, 5km from Saint Sava Cathedral). The hotel features a spa centre and fitness area on site, as well as an indoor pool.
 
 
 ## Banquet venue
 
-The Banquet will be held on the evening of the second day of the main conference (Tuesday, April 25 2017) at the [„Top of the Hub“ Restaurant&Lounge](http://www.topofthehub.rs/en/), located at the 25th floor of the Belgrade business tower UŠĆE. 
+The Banquet will be held on the evening of the second day of the main conference (Tuesday, April 25 2017) at the  <a href="http://www.topofthehub.rs/en/" target="_blank">„Top of the Hub“ Restaurant&Lounge</a>, located at the 25th floor of the Belgrade business tower UŠĆE. 
 
 ![Banquet dinner](/assets/img/top_of_the_hub_view_small.jpg){:class='img-thumbnail pull-left left'}
 

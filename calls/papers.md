@@ -28,6 +28,15 @@ We encourage papers that span different topics and communities.  We also welcome
 
 Reviewing will be double-blind, meaning the authors' identities will be hidden from the reviewers. EuroSys applies ACM's policies for plagiarism, submission confidentiality, reviewer anonymity, and prior and concurrent paper submission.
 
+## Important dates
+
+
+|Abstract Submission				|October 14, 2016	|
+|Full paper Submission				|October 21, 2016	|
+|Notification to authors			|January 23, 2017	|
+{:class='table table-bordered table-striped'}
+
+
 ## Submission information
 
 Submissions should be made online at <a href="https://eusys17.ethz.ch/" target="_blank">https://eusys17.ethz.ch/</a>. Submissions should be no longer than 12 pages including all content, except references. Papers must be formatted using 10pt font, single spacing (minimum 11pt spacing between lines), two columns with 0.33 inches between columns, and a text box of 7 by 9 inches. Please ensure that the pages are numbered. Authors should use [this version](http://eurosys16.doc.ic.ac.uk/calls/papers/sigplanconf-eurosys.cls) of the SIGPLAN template, which has been modified to use 10pt font, and specify the "preprint" option to achieve the required formatting. Reviewing will be double-blind, so papers must not identify the authors. In place of the authors' names, please indicate the paper ID number assigned when registering the paper, along with the total number of pages in the submission. When referring to your own previous work, you should use the third person. Papers that violate the submission guidelines will be rejected regardless of their merit. Accepted papers will be allowed 14 pages in the proceedings, plus references. Authors who have questions about their submission can contact the PC co-chairs at [eusys17@inf.ethz.ch](mailto:eusys17@inf.ethz.ch).
@@ -42,14 +51,6 @@ In addition to paper presentations, EuroSys 2017 will have a poster session. Sub
 <!---
 Authors who are unsure whether or not their submissions might meet these guidelines, or with specific questions about the guidelines, are welcome to contact the program committee co-chairs, via [eusys17@inf.ethz.ch](mailto:eusys17@inf.ethz.ch).
 --->
-
-## Important dates
-
-
-|Abstract Submission				|October 14, 2016	|
-|Full paper Submission				|October 21, 2016	|
-|Notification to authors			|January 23, 2017	|
-{:class='table table-bordered table-striped'}
 
 
 <!---

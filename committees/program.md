@@ -22,7 +22,7 @@ published: true
 * Haibo Chen, Shanghai Jiao Tong University
 * Shimin Chen, Chinese Academy of Sciences
 * Byung-Gon Chun, Seoul National University
-* Fred Douglis, EMC
+* Fred Douglis, Dell EMC
 * Pascal Felber, University of Neuchatel
 * Anja Feldmann, TU Berlin
 * Paulo Ferreira, University of Lisbon

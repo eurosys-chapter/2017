@@ -9,6 +9,7 @@
 
 <h2>News</h2>
 {% for post in site.posts limit:2 %}
-    <a href="/news">{{ post.title }}</a>
-    <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+    <h3><a href="/news">{{ post.title }}</a></h3>
+    <p class="news-preview">{{ post.content | truncatewords: 20 | remove: '<p>' | remove: '</p>'}}</p>
 {% endfor %}
+See all <a href="/news">here</a>

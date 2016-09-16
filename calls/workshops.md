@@ -51,9 +51,9 @@ The deadline of the call for workshops has been extended.
 </div>
 --->
 
-|Workshop proposals due								|(: outdate date:"31/10/2016" :)	|
-|Acceptance notification							|(: outdate date:"4/11/2016" :)	|
-|Date of workshops								|(: outdate date:"23/04/2017" :)	|
+|Workshop proposals due								| October 31, 2016	|
+|Acceptance notification							|November 4, 2016|
+|Date of workshops								|April 23, 2017|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.

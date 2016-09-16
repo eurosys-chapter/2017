@@ -2,7 +2,7 @@
 layout: default
 title: Call for workshops
 permalink: /calls/workshops
-published: false
+published: true
 ---
 
 # Call for Workshops

@@ -2,12 +2,12 @@
 layout: default
 title: Call for workshops
 permalink: /calls/workshops
-published: false
+published: true
 ---
 
 # Call for Workshops
 
-Researchers and practitioners are invited to submit proposals for workshops to be held in conjunction with the EuroSys’15 conference. The purpose of workshops is to provide a forum for exchanging opinions, presenting ideas, and discussing preliminary results in an interactive atmosphere.
+Researchers and practitioners are invited to submit proposals for workshops to be held in conjunction with the EuroSys’17 conference. The purpose of workshops is to provide a forum for exchanging opinions, presenting ideas, and discussing preliminary results in an interactive atmosphere.
 
 Proposals should include:
 
@@ -16,7 +16,7 @@ Proposals should include:
 * Information about the procedure for selecting papers, plans for dissemination (for example, special issues of journals, or position statements distributed to the participants), the expected number of participants, and the planned workshop format.
 * A brief CV of each of the organizers including contact addresses and an identification of a single primary contact.
 
-The definite dates for workshop submissions and camera-ready deadlines are yet to be set. However, we expect that EuroSys paper notifications will be sent out by end of January 2015, thus the workshop submission deadlines should be after that. Workshop notifications must probably be sent out by the end of February 2015, so that authors can benefit from the early registration rate. Furthermore, camera-ready copies of the papers must be provided by probably end of 2015, in order to include them in the electronic version of the proceedings. We will provide the definite dates as soon as they become available.
+The definite dates for workshop submissions and camera-ready deadlines are yet to be set. However, we expect that EuroSys paper notifications will be sent out by end of January 2017, thus the workshop submission deadlines should be after that. Workshop notifications must probably be sent out by the end of February 2017, so that authors can benefit from the early registration rate. Furthermore, camera-ready copies of the papers must be provided by probably in March 2017, in order to include them in the electronic version of the proceedings. We will provide the definite dates as soon as they become available.
 
 All proposals will be judged on their merits and the best proposals will be accepted. Specifically, workshops that have been organized at previous iterations of Eurosys are not automatically accepted this year. For instance, we will take into account the success of previous events (in terms of attendance, submissions, etc.) in our deliberations.
 
@@ -45,17 +45,19 @@ The main responsibility of organizing a workshop goes to the chairperson(s) of t
 
 ## Important Dates
 
+<!---
 <div class="alert alert-warning" role="alert">
 The deadline of the call for workshops has been extended.
 </div>
+--->
 
-|Workshop proposals due								|(: outdate date:"17/10/2014" :)	|
-|Acceptance notification							|(: outdate date:"24/10/2014" :)	|
-|Date of workshops								|(: outdate date:"21/04/2015" :)	|
+|Workshop proposals due								|(: outdate date:"31/10/2016" :)	|
+|Acceptance notification							|(: outdate date:"4/11/2016" :)	|
+|Date of workshops								|(: outdate date:"23/04/2017" :)	|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.
 
 ## Workshop Submission
 
-Please send electronic submissions to the workshop chair at <eurosys2015-workshops@lists.cs.fau.de>. Feel free to also contact the workshop chairs, [Daniel Lohmann](https://www4.cs.fau.de/~lohmann/) and [Vivien Quéma](http://lig-membres.imag.fr/quema/) with any questions regarding the EuroSys’15 workshops.
+Please send electronic submissions to the workshop chair at workshops@eurosys2017.org. Feel free to also contact the workshop chairs, with any questions regarding the EuroSys’17 workshops using the same email address.

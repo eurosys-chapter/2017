@@ -60,4 +60,4 @@ The deadline of the call for workshops has been extended.
 
 ## Workshop Submission
 
-Please send electronic submissions to the workshop chair at [workshops@eurosys2017.org](mailto:workshops@eurosys2017.org). Feel free to also contact the workshop chairs, with any questions regarding the EuroSys’17 workshops using the same email address.
+Please send electronic submissions to the workshop chairs at [workshops@eurosys2017.org](mailto:workshops@eurosys2017.org). Feel free to also contact the workshop chairs, with any questions regarding the EuroSys’17 workshops using the same email address.

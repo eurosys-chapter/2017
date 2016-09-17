@@ -38,3 +38,7 @@ published: true
 
 ## Web Chair
 * [Marcus Brandenburger](http://researcher.watson.ibm.com/researcher/view.php?person=zurich-BUR), IBM Research - Zurich
+
+## Workshop Chairs
+* [Etienne Rivière](http://members.unine.ch/etienne.riviere/), University of Neuchatel
+* [Paolo Romano](http://www.gsd.inesc-id.pt/~romanop/), University of Lisbon

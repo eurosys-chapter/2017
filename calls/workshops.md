@@ -13,12 +13,14 @@ Proposals should include:
 
 * The workshop name and a 150–200-word abstract describing the workshop, suitable for the conference web site.
 * A short summary of the topic, scope and significance of the workshop, including a discussion on the relevance to EuroSys topics (please include information about past iterations of the workshop, if any).
-* Information about the procedure for selecting papers, plans for dissemination (for example, special issues of journals, or position statements distributed to the participants), the expected number of participants, and the planned workshop format.
+* Information about the procedure for selecting papers and/or presentations, plans for dissemination (for example, online proceedings, special issues of journals, position statements distributed to the participants, etc.), the expected number of participants, and the planned workshop format.
 * A brief CV of each of the organizers including contact addresses and an identification of a single primary contact.
 
-The definite dates for workshop submissions and camera-ready deadlines are yet to be set. However, we expect that EuroSys paper notifications will be sent out by end of January 2017, thus the workshop submission deadlines should be after that. Workshop notifications must probably be sent out by the end of February 2017, so that authors can benefit from the early registration rate. Furthermore, camera-ready copies of the papers must be provided by probably in March 2017, in order to include them in the electronic version of the proceedings. We will provide the definite dates as soon as they become available.
+The definite dates for workshop submissions and camera-ready deadlines are yet to be set. However, we expect that EuroSys paper notifications will be sent out by end of January 2017, thus the workshop submission deadlines should be after that. Workshop notifications must probably be sent out by the end of February 2017, so that authors can benefit from the early registration rate. Workshop organizers will be expected to agree with the workshop chairs on the dates used for their workshop before announcing them.
 
 All proposals will be judged on their merits and the best proposals will be accepted. Specifically, workshops that have been organized at previous iterations of Eurosys are not automatically accepted this year. For instance, we will take into account the success of previous events (in terms of attendance, submissions, etc.) in our deliberations.
+
+All workshops will be offered to participate in a common poster and demonstration session in the afternoon of the workshops day, similarly some of the previous EuroSys occurrences. The afternoon coffee break will be extended to one hour to accommodate for this session. Workshop organizers will be encouraged to propose their speakers and authors to prepare a poster or demonstration for this common session, in order to stimulate intra- and inter-workshop interactions.
 
 ## Responsibilities
 
@@ -28,19 +30,21 @@ The EuroSys organization provides:
 * Management of registration for participants
 * Setup of meeting space and related equipment
 * Coffee-breaks and workshop lunch arrangements
+* Organization of the common poster and demonstration session during the extended afternoon coffee break
 
-For workshops interested in publishing their proceedings, the EuroSys organization will provide the following support. Note that workshop proceedings will not be included in the same volume as the EuroSys conference proceedings.
+The publication of proceedings is not a requirement for EuroSys workshops. For workshops interested in publishing their proceedings on the ACM Digital Library, the EuroSys organization will provide the following support. Workshop proceedings will be published in separate volumes from the EuroSys conference proceedings, but will be listed as side events of the conference in the ACM Digital Library.
 
-* Collect camera-ready versions of the papers and their copyright forms
-* Provide support for publishing on the on-site CD
-* Provide support to obtain an ISBN number
-* Publish papers in ACM digital library
+* Establish contact between the ACM services and workshop publication officers
+* Provide ISBN numbers
+* Provide support for publishing on the on-site proceedings volume (e.g. USB key)
 
 The main responsibility of organizing a workshop goes to the chairperson(s) of the workshop. The workshop organization must take care of:
 
+* Set up and host a webpage for the workshop
 * Coordinating deadlines and acceptance notifications for workshop papers with the EuroSys Workshop co-chairs
 * Workshop publicity, call for papers, and submission and review process
 * Providing a brief description of the workshop for inclusion on the EuroSys Web page
+* If using published proceedings, coordinate with ACM offices to collect camera-ready copies of the papers and copyright forms
 * Scheduling workshop activities in collaboration with the EuroSys local organizers
 
 ## Important Dates

@@ -6,7 +6,7 @@ published: true
 ---
 # Workshops
 
-Workshops co-organized Eurosys 2017:
+Workshops co-organized with Eurosys 2017:
 
 * <a href="http://software.imdea.org/Conferences/PAPOC17/" target="_blank"> Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC 2017)</a>
 * <a href="http://www.comp.lancs.ac.uk/~elkhatib/crosscloud/" target="_blank"> 4th International Workshop on Cross-Cloud Systems (CrossCloud 2017) </a>

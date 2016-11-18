@@ -17,3 +17,6 @@ Workshops co-organized Eurosys 2017:
 * Workshop on Security and Dependability of Multi-Domain Infrastructures (XDOM0 2017)
 * Workshop on Next Generation Cloud Architectures (CloudNG'17)
 
+|Date of workshops								|April 23, 2017|
+{:class='table table-bordered table-striped'}
+

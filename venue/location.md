@@ -38,7 +38,7 @@ With its urban population of over 1.2 million (1.65M metropolitan), the city is 
 
 Major tourist attractions (beyond food and nightlife) include: Kalemegdan with Belgrade Fortress, Saint Sava Cathedral, Nikola Tesla museum,  Skadarlija bohemian quarter, Knez Mihailova pedestrian street, etc. 
 
-Watch below a nice Belgrade timelapse featured at National Geographic Travel.
+Watch below a nice Belgrade timelapse featured on National Geographic Travel.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnatgeotravel%2Fvideos%2F10154328648868992%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 

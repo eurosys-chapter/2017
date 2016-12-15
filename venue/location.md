@@ -5,9 +5,7 @@ permalink: /venue/location
 published: true
 ---
 
-# Eurosys 2017 venues
-
-## Conference venue
+# Conference location
 
 ![Crowne Plaza Belgrade](/assets/img/crowne_plaza_small.jpg){:class='img-thumbnail pull-right right'}
 The conference will be held in the <a href="https://www.ihg.com/crowneplaza/hotels/us/en/belgrade/begcp/hoteldetail" target="_blank">Crowne Plaza 4* hotel</a> (<a href="http://www.booking.com/hotel/rs/crowne-plaza-belgrade-belgrade.en-gb.html?aid=356992;label=gog235jc-hotel-XX-rs-crowneNplazaNbelgradeNbelgrade-unspec-ch-com-L%3Aen-O%3Aabn-B%3Afirefox-N%3AXX-S%3Abo-U%3AXX;sid=6bb20bf170d8b300eefdbf4c9716122d;dcid=12;dist=0&sb_price_type=total&type=total&" target="_blank">Booking.com rating 9.0/10</a>). 
@@ -28,32 +26,6 @@ The Banquet will be held on the evening of the second day of the main conference
 ## Eurosys 2017 venues on a map
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zRLKqygOrJ00.kSJn6VG5UqIk" width="100%" height="560"></iframe>
-
-
-# Belgrade
-
-Belgrade, at the confluence of major European rivers Danube and Sava, the capital of Republic of Serbia, is a dynamic and vibrant city, famous for its several millennia old history, nightlife, food and unparalleled atmosphere. 
-
-With its urban population of over 1.2 million (1.65M metropolitan), the city is the main regional (ex-Yugoslav) business, cultural and education center, with University of Belgrade as the leading academic institution in this part of Europe.  The city boasts young and dynamic academic and IT scene, with companies such as Microsoft  and Schneider Electric establishing major development centers in Belgrade.  
-
-Major tourist attractions (beyond food and nightlife) include: Kalemegdan with Belgrade Fortress, Saint Sava Cathedral, Nikola Tesla museum,  Skadarlija bohemian quarter, Knez Mihailova pedestrian street, etc. 
-
-Watch below a nice Belgrade timelapse featured on National Geographic Travel.
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnatgeotravel%2Fvideos%2F10154328648868992%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-For more information on Belgrade as well as local information visit the website of the <a href="http://www.tob.rs/" target="_blank">Tourist Organization of Belgrade.</a>  
-
-
-## Coming to Belgrade
-
-Belgrade is easily reachable by plane. Belgrade Nikola Tesla airport (BEG) is well connected with daily flights to practically all major European cities, including Amsterdam, Frankfurt, London, Munich, Paris, Vienna, Zurich, which also connect Belgrade to many destinations in North America.
-
-Air Serbia operates direct flights from Belgrade to New York (JFK), 5 times a week.   
-
-Belgrade Nikola Tesla airport is also served by low-cost airlines EasyJet and Wizz Air.
-
-
 
 
 <!---

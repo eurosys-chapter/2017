@@ -29,6 +29,7 @@ Below is an incomplete overview of major cities with direct connection to Belgra
 * **Gothenburg**: Wizz Air
 * **Hamburg**: Air Serbia
 * **Istanbul**: Air Serbia, Pegasus, Turkish Airlines
+* **Lisbon**: TAP Portugal
 * **London**: Air Serbia, Wizz Air
 * **Milan**: Air Serbia
 * **Munich**: Lufthansa, Wizz Air

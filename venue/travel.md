@@ -32,6 +32,7 @@ Below is an incomplete overview of major cities with direct connection to Belgra
 * **Lisbon**: TAP Portugal
 * **London**: Air Serbia, Wizz Air
 * **Milan**: Air Serbia
+* **Moscow**: Aeroflot, Air Serbia
 * **Munich**: Lufthansa, Wizz Air
 * **New York (JFK)**: Air Serbia
 * **Oslo**: Norwegian Air Shuttle

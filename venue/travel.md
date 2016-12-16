@@ -24,7 +24,7 @@ Below is an incomplete overview of major cities with direct connection to Belgra
 * **Dubai**: flydubai
 * **Düsseldorf**: Air Serbia
 * **Eindhoven**: Wizz Air
-* **Frankfurt**: Air serbia, Lufthansa
+* **Frankfurt**: Air Serbia, Lufthansa
 * **Geneva**: Easy Jet
 * **Gothenburg**: Wizz Air
 * **Hamburg**: Air Serbia
@@ -34,10 +34,11 @@ Below is an incomplete overview of major cities with direct connection to Belgra
 * **Milan**: Air Serbia
 * **Munich**: Lufthansa, Wizz Air
 * **New York (JFK)**: Air Serbia
+* **Oslo**: Norwegian Air Shuttle
 * **Paris**: Air Serbia, Wizz Air
 * **Prague**: Air Serbia
 * **Rome**: Alitalia, Air Serbia
-* **Stockholm**: Air Serbia, Wizz Air
+* **Stockholm**: Air Serbia, Norwegian Air Shuttle, Wizz Air
 * **Stuttgart**: Air Serbia
 * **Tel Aviv**: Air Serbia, Israir
 * **Vienna**: Air Serbia, Austrian Airlines

@@ -12,8 +12,8 @@ EuroSys’17 will follow the pattern established by the previous EuroSys confere
 
 ## Important dates
 
-|Abstract Submission            	| October 14, 2016 |
-|Full paper Submission          	| October 21, 2016 |
+|Abstract Submission            	| ~~October 14, 2016~~ |
+|Full paper Submission          	| ~~October 21, 2016~~ |
 |Notification to authors        	| January 23, 2017 |
 |Conference				            | April 23-26, 2017|
 {:class='table table-bordered table-striped'}

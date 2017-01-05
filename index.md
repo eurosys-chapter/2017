@@ -24,6 +24,6 @@ EuroSys’17 will follow the pattern established by the previous EuroSys confere
 
 Eurosys'17 will take place in the wonderful city of Belgrade. Belgrade, the capital of Republic of Serbia, is a dynamic and vibrant city, famous for its several millennia old history, nightlife, food and unparalleled atmosphere. With its urban population of over 1.2 million (1.65M metropolitan), the city is the main regional (ex-Yugoslav) business, cultural and education center, with University of Belgrade as the leading academic institution in this part of Europe. 
 
-[read more](/venue/location)
+[read more](/venue/about)
 {:class='pull-right'}
 

@@ -16,7 +16,7 @@ Workshops co-organized with Eurosys 2017:
 * Workshop on LargeScale Distributed Systems and Middleware (LADIS 2017)
 * Workshop on Resource Disaggregation 
 * Workshop on Security and Dependability of Multi-Domain Infrastructures (XDOM0 2017)
-* 11th Eurosys Doctoral Workshop (EuroDW'17)
+* <a href="http://eurodw17.kaust.edu.sa/" target="_blank"> 11th Eurosys Doctoral Workshop (EuroDW'17)</a>  
 
 |Date of workshops								|April 23, 2017|
 {:class='table table-bordered table-striped'}

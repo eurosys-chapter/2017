@@ -8,10 +8,10 @@ published: true
 
 {::options parse_block_html="true" /}
 
-Conference fees are given in the table below. All fees are in Euro (EUR). Discounted fees are available for students and members of ACM or EuroSys. The early registration prices end on (: date:"31/03/2017":).
+Conference fees are given in the table below. All fees are in Euro (EUR). Discounted fees are available for students and members of ACM or EuroSys. The early registration prices end on March 31, 2017.
 
 <div class="alert alert-info alert-dismissible" role="alert">
-At least a non-student registration fee (member or non-member) is required for **each accepted paper** at the main conference, even if the presenter would qualify for student fees. For a presentation at a workshop, at least one registration fee (be it student or non-student, as applicable) is required per presentation. 
+At least a non-student registration fee (member or non-member) is required for **each accepted paper** at the main conference, even if the presenter would qualify for student fees. For a presentation at a workshop, at least one registration fee (be it student or non-student, as applicable) is required per accepted paper/presentation. 
 
 At least one author of each accepted paper **must** be registered before the early registration deadline (March 31) for paper inclusion in the proceedings.
 </div>
@@ -38,7 +38,7 @@ At least one author of each accepted paper **must** be registered before the ear
 
 ### Extras
 
-|																								| *Early*	| *Late*	|
+|																						| *Early*	| *Late*	|
 | *Additional participant to conference dinner*	| 80€		| 80€		|
 {:class='table table-bordered table-striped'}
 

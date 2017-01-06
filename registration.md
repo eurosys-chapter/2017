@@ -2,16 +2,18 @@
 layout: default
 title: Registration
 permalink: /registration
-published: false
+published: true
 ---
 # Registration
 
 {::options parse_block_html="true" /}
 
-Conference fees are given in the table below. All fees are in Euro (EUR). Discounted fees are available for students and members of ACM or EuroSys. The early registration prices end on (: outdate date:"27/03/2015" :).
+Conference fees are given in the table below. All fees are in Euro (EUR). Discounted fees are available for students and members of ACM or EuroSys. The early registration prices end on (: date:"31/03/2017":).
 
 <div class="alert alert-info alert-dismissible" role="alert">
-At least a non-student registration fee (member or non-member) is required for **each accepted paper** at the main conference, even if the presenter would qualify for student fees. For a presentation at the doctoral symposium or a workshop a student fee is applicable. At least one author of each accepted paper **must** be registered before the early registration deadline (March 23) for paper inclusion in the proceedings.
+At least a non-student registration fee (member or non-member) is required for **each accepted paper** at the main conference, even if the presenter would qualify for student fees. For a presentation at a workshop, at least one registration fee (be it student or non-student, as applicable) is required per presentation. 
+
+At least one author of each accepted paper **must** be registered before the early registration deadline (March 31) for paper inclusion in the proceedings.
 </div>
 
 ## General conditions
@@ -37,7 +39,7 @@ At least a non-student registration fee (member or non-member) is required for *
 ### Extras
 
 |																								| *Early*	| *Late*	|
-| *Additional participant to conference dinner*	| 120€		| 120€		|
+| *Additional participant to conference dinner*	| 80€		| 80€		|
 {:class='table table-bordered table-striped'}
 
 Non-member fees include an optional free membership to the EuroSys organization.
@@ -46,17 +48,23 @@ The workshop fees include:
 
 - Admission to workshops
 - Proceedings
-- Lunch and coffee breaks on April 21, 2015
-- Welcome reception
+- Lunch and coffee breaks on April 23, 2017
+- Welcome reception on April 23, 2017
 
 The full conference fees include:
 
 - Admission to conference and workshops
 - Proceedings
 - All lunches and coffee breaks
-- Welcome reception, social event and conference dinner
+- Welcome reception on April 23, 2017
+- Poster session catering on April 24, 2017
+- Conference banquet dinner on April 25, 2017
 
 ## Online Registration
+
+The online registration webpage will be available later in January 2017.  
+
+<!---
 
 <div class="alert alert-info alert-dismissible" role="alert">
 Information to request for official invitation letter for your visa
@@ -75,3 +83,6 @@ order is possible, but must be arranged directly with the conference
 chair. Due to the delays typical in processing such transactions,
 conferees using these methods should expect to have to pay for “late
 registration”.
+
+
+--->

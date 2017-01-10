@@ -15,7 +15,7 @@ Major tourist attractions (beyond food and nightlife) include: Kalemegdan with B
 
 Watch below a nice Belgrade timelapse featured on National Geographic Travel.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnatgeotravel%2Fvideos%2F10154328648868992%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ifnMkZxglnc" frameborder="0" allowfullscreen></iframe>
 
 For more information on Belgrade as well as local information visit the website of the <a href="http://www.tob.rs/" target="_blank">Tourist Organization of Belgrade.</a>  
 

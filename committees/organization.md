@@ -15,6 +15,11 @@ published: true
 
 <!-- alphabetical order -->
 
+## Grant Chairs
+* [Christian Cachin](https://www.zurich.ibm.com/~cca/), IBM Research - Zurich
+* [Rüdiger Kapitza](https://www.ibr.cs.tu-bs.de/users/kapitza/) TU Braunschweig
+* Nikola Vujić, Microsoft Development Center Serbia
+
 ## Local Arrangements Chairs
 * Nikola Knežević, IMC Financial Markets
 * Dragan Tomić, Microsoft Development Center Serbia

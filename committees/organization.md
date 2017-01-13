@@ -17,7 +17,7 @@ published: true
 
 ## Grant Chairs
 * [Christian Cachin](https://www.zurich.ibm.com/~cca/), IBM Research - Zurich
-* [Rüdiger Kapitza](https://www.ibr.cs.tu-bs.de/users/kapitza/) TU Braunschweig
+* <a href="https://www.ibr.cs.tu-bs.de/users/kapitza/" target="_blank">Rüdiger Kapitza</a>, TU Braunschweig
 * Nikola Vujić, Microsoft Development Center Serbia
 
 ## Local Arrangements Chairs

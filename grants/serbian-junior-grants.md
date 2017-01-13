@@ -31,3 +31,9 @@ Applications have to be submitted at [serbian-junior-grants@eurosys2017.org](mai
 |Notification of acceptance			|March 24, 2017	|
 {:class='table table-bordered table-striped'}
 
+## Supporter
+
+<a href="https://www.microsoft.com/serbia/mdcs/" target="_blank"><img src="/assets/img/mdcs.png"/></a>
+
+
+

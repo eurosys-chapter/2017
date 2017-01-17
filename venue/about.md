@@ -13,7 +13,7 @@ With its urban population of over 1.2 million (1.65M metropolitan), the city is 
 
 Major tourist attractions (beyond food and nightlife) include: Kalemegdan with Belgrade Fortress, Saint Sava Cathedral, Nikola Tesla museum,  Skadarlija bohemian quarter, Knez Mihailova pedestrian street, etc. 
 
-To get an idea about Belgrade, from the perspective of a western traveler, read this suggestion of <a href="http://www.nytimes.com/interactive/2016/08/25/travel/what-to-do-36-hours-in-belgrade.html"  target="_blank"> New York Times on how to spend 36 hours in Belgrade. </a>   
+To get an idea about Belgrade, from the perspective of a western traveler, read this suggestion of <a href="http://www.nytimes.com/interactive/2016/08/25/travel/what-to-do-36-hours-in-belgrade.html"  target="_blank"> The New York Times on how to spend 36 hours in Belgrade. </a>   
 
 Watch also below a nice Belgrade timelapse featured on National Geographic Travel.
 

@@ -6,11 +6,11 @@ published: true
 ---
 # Visa Information
 
-Citizens of many countries *do not* need visas for entering the Republic of Serbia (e.g., China, European Union,  United States). In any case, before traveling to the Republic of Serbia, please check [here](http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime) whether you need a visa.
+Citizens of many countries *do not* need visas for entering the Republic of Serbia (e.g., China, European Union,  United States). In any case, before traveling to the Republic of Serbia, please check  <a href="http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime" target="_blank"> here</a>  whether you need a visa.
 
-**In addition, holders of EU/Schengen and US visas, as well as residents of these countries do not need separate visas for short stays in Serbia.** As of November 2014, valid visa holders and residents of the European Union and Schengen Area member states and the United States can enter Serbia without a visa for a maximum stay of 90 days within 180 days, provided the visa remains valid for the entire length of stay. See details [here](http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime).
+**In addition, holders of EU/Schengen and US visas, as well as residents of these countries do not need separate visas for short stays in Serbia.** As of November 2014, valid visa holders and residents of the European Union and Schengen Area member states and the United States can enter Serbia without a visa for a maximum stay of 90 days within 180 days, provided the visa remains valid for the entire length of stay. See details <a href="http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime" target="_blank"> here</a>.
 
-In case you still need a visa for entering Serbia, you may be required to include a visa support letter (see visa requirements [here](http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-requirements)). To request a visa support letter, you must first register for the conference and then email your request to <visas@eurosys2017.org> and include:
+In case you still need a visa for entering Serbia, you may be required to include a visa support letter (see visa requirements <a href="http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-requirements" target="_blank"> here</a>). To request a visa support letter, you must first register for the conference and then email your request to <visas@eurosys2017.org> and include:
 
 * Name as it appears on your passport
 * Birthdate and birthplace
@@ -20,7 +20,7 @@ In case you still need a visa for entering Serbia, you may be required to includ
 * Eurosys 2017 registration confirmation
 * Your current postal mailing address
 * Your address in Serbia (incl. confirmation of the hotel/accommodation reservation).
-* Copy of the return ticket or travel itinerary (as indicated in [visa requirements](http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-requirements)).
+* Copy of the return ticket or travel itinerary (as indicated in <a href="http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-requirements" target="_blank"> visa requirements</a>).
 
 Visa support letter requests are answered in the order they are received. Incomplete requests will not be processed. Please note that a support letter will only be sent to participants who have registered and paid for the Conference. Should participants withdraw from the conference after the issue of the support letter, the consulate will be notified of the withdrawal immediately.
 

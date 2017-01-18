@@ -15,12 +15,13 @@ In case you still need a visa for entering Serbia, you may be required to includ
 * Name as it appears on your passport
 * Birthdate and birthplace
 * Nationality
-* Passport Number
+* Passport number
 * Affiliation (University/Employer)
 * Eurosys 2017 registration confirmation
 * Your current postal mailing address
 * Your address in Serbia (incl. confirmation of the hotel/accommodation reservation).
 * Copy of the return ticket or travel itinerary (as indicated in <a href="http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-requirements" target="_blank"> visa requirements</a>).
+* Copy of the passport
 
 Visa support letter requests are answered in the order they are received. Incomplete requests will not be processed. Please note that a support letter will only be sent to participants who have registered and paid for the Conference. Should participants withdraw from the conference after the issue of the support letter, the consulate will be notified of the withdrawal immediately.
 

@@ -2,31 +2,28 @@
 layout: default
 title: Call for Posters
 permalink: /calls/posters
-published: false
+published: true
 ---
 
 # Call for Posters
 
-We invite submissions to Eurosys' poster track. The poster track will provide an opportunity to present early-stage work and receive feedback from the community.
+The poster session provides a great opportunity to engage with attendees about your EuroSys'17 paper, or to present early-stage work. In previous years, the poster sessions have been a vibrant and collegial forum for discussing new ideas, elaborating on material presented in the talks, and meeting new people from the systems community. We anticipate that this year's poster session will build on this track record.
 
-## Important Dates
+## Important Deadlines
 
-|Poster submission		|(: outdate date:"10/03/2015" :)	|
-|Author notification	|(: outdate date:"12/03/2015" :)	|
+|Poster Submission		|(: outdate date:"10/03/2017" :) (Anywhere on earth)	|
+|Author Notification		|(: outdate date:"17/03/2017" :) (Anywhere on earth)	|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.
 
-## Instruction to authors
+## Submission Instructions
 
-Contributions will be selected by the Poster program committee based on a 1-page abstract plus poster draft submitted through the Eurosys Poster submission website:
+Poster submissions consist of two pages. The first page of the submission should be an extended abstract using the same formatting guidelines as a full EuroSys'17 submission (10pt font, single spacing, minimum 11pt spacing between lines, two columns with 0.33 inches between columns, and a text box of 7 by 9 inches). The second page of the submission should be a draft of the proposed poster. The extended abstracts will be published on the EuroSys'17 website at the time of the conference unless authors request otherwise.
+Submissions must include a title, author names and affiliations, a note indicating which authors (if any) are students, and an indication of which author will present the poster. Posters can be accompanied by a demo of a preliminary version of the system or technique described in the submission.
 
-Poster Submission Link: <https://easychair.org/conferences/?conf=eurosys2015poster>
+Submit your two-page poster abstract and draft through the Poster Submission Website at <a href="https://eurosys17posters.hotcrp.com">https://eurosys17posters.hotcrp.com</a>
 
-Poster abstracts will be submitted through Easychair and will be reviewed by the Poster chairs. The abstracts will be published on the Eurosys website unless authors prefer otherwise. Each poster will be presented by at least one author during the poster session at the conference. Each presenter will have 3 minutes to present his/her work to the Poster jury (that will consist of 3 people) during the poster session. The jury will give a Best Poster award to the best presentation.
+All poster submissions will be reviewed by the Poster and Demo Program Committee. Accepted posters must be presented by at least one of the authors during the poster session at the conference. Each presenter will have three minutes to present their work to a three-person jury. The jury will select the recipient of the <b>Best Poster Award</b> based on these three-minute presentations.
 
-The submission will consist of a 1-page abstract with a text block of maximum 6.5 x 9 inches (16.5 x 22.9 cm), font size of minimum 10pt, and at least 12pt leading. Submissions must include title, author names and affiliations, a note indicating which authors (if any) are students, and an indication of who would present the poster. Each submission should be accompanied by a PDF draft of the proposed poster included as page 2 of the submission. Poster can be accompanied by a demo of a preliminary version of the described system or technique; demos are encouraged but may be constrained by demand, available space, network capacity, or other logistical concerns.
-
-Accepted Eurosys papers are expected to provide a poster, but do not need to provide the 1-page summary, just the poster draft.
-
-Questions can be addressed to the poster chairs at: <eurosys2015poster@easychair.org>
+Please address any questions to <a href="mailto:posters@eurosys2017.org">posters@eurosys2017.org</a>.

@@ -39,7 +39,7 @@ At least one author of each accepted paper **must** be registered before the ear
 ### Extras
 
 |																						| *Early*	| *Late*	|
-| *Additional participant to conference dinner*	| 80€		| 80€		|
+| *Additional participant to conference dinner*	| 85€		| 85€		|
 {:class='table table-bordered table-striped'}
 
 Non-member fees include an optional free membership to the EuroSys organization.
@@ -62,7 +62,9 @@ The full conference fees include:
 
 ## Online Registration
 
-The online registration webpage will be available later in January 2017.  
+[Click here to register](https://www.regonline.com/eurosys-2017)
+
+Please note that our registration system is designed to support payment by credit card. Furthermore, on-site registration will be only possible using a credit card. 
 
 <!---
 
@@ -74,15 +76,7 @@ Please do a request only once you are registered and after the conference fee is
 
 
 
-[Click here to register](https://www.regonline.com/eurosys2015)
 
-Please note that our registration system (including on-site) is
-designed to support payment by credit card and credit card use is
-strongly preferred. Payment by wire transfer 
-order is possible, but must be arranged directly with the conference
-chair. Due to the delays typical in processing such transactions,
-conferees using these methods should expect to have to pay for “late
-registration”.
 
 
 --->

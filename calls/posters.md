@@ -11,8 +11,8 @@ The poster session provides a great opportunity to engage with attendees about y
 
 ## Important Deadlines
 
-|Poster Submission		|(: outdate date:"10/03/2017" :) (Anywhere on earth)	|
-|Author Notification		|(: outdate date:"17/03/2017" :) (Anywhere on earth)	|
+|Applications due				|March 10, 2017	|
+|Notification of acceptance			|March 17, 2017	|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.

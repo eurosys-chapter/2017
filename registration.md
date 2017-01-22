@@ -62,9 +62,11 @@ The full conference fees include:
 
 ## Online Registration
 
-[Click here to register](https://www.regonline.com/eurosys-2017)
+<a href="https://www.regonline.com/eurosys-2017" target="_blank"> Click here to register online for Eurosys 2017</a>
 
-Please note that our registration system is designed to support payment by credit card. Furthermore, on-site registration will be only possible using a credit card. 
+Please note that our online registration system is designed to support payment by credit card. Furthermore, on-site registration will be only possible using a credit card. 
+
+In case of any questions, please write to <registrations@eurosys2017.org>.
 
 <!---
 

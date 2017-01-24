@@ -15,7 +15,6 @@ Workshops co-organized with Eurosys 2017:
 * <a href="http://sites.google.com/site/mars2017eurosys/home" target="_blank"> 7th workshop on Multi-core Architectures and Rack-Scale computing (MARS'17) </a> 
 * <a href="http://xdom0-2017.supercloud-project.eu/" target="_blank"> Workshop on Security and Dependability of Multi-Domain Infrastructures (XDOM0 2017) </a>
 * <a href="http://ladisworkshop.org/" target="_blank"> Workshop on Large Scale Distributed Systems and Middleware (LADIS 2017) </a>  
-* Workshop on Resource Disaggregation 
 * <a href="http://eurodw17.kaust.edu.sa/" target="_blank"> 11th Eurosys Doctoral Workshop (EuroDW'17)</a>  
 
 |Date of workshops								|April 23, 2017|

@@ -55,8 +55,8 @@ The deadline of the call for workshops has been extended.
 </div>
 --->
 
-|Workshop proposals due								| October 31, 2016	|
-|Acceptance notification							|November 4, 2016|
+|Workshop proposals due								|~~October 31, 2016~~|
+|Acceptance notification							|~~November 4, 2016~~|
 |Date of workshops								|April 23, 2017|
 {:class='table table-bordered table-striped'}
 

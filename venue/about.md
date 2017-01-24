@@ -23,7 +23,7 @@ For more information on Belgrade as well as local information visit the website 
 
 # Safety
 
- <a href="https://www.gov.uk/foreign-travel-advice/serbia"> UK foreign travel advice </a> states that ``most visits to Serbia are trouble-free'', whereas travelers describe Belgrade as <a href="https://www.tripadvisor.com/Travel-g294472-s206/Belgrade:Serbia:Health.And.Safety.html"> very safe </a> to <a href="https://www.worldnomads.com/travel-safety/europe/serbia/serbia-crime-and-tourists"> relatively safe like most other large cities elsewhere in the world </a>. Governments typically advise <a href="http://smartraveller.gov.au/Countries/europe/southern/pages/serbia.aspx"> exercising normal safety precautions in Serbia </a>.
+ <a href="https://www.gov.uk/foreign-travel-advice/serbia"  target="_blank"> UK foreign travel advice </a> states that ``most visits to Serbia are trouble-free'', whereas travelers describe Belgrade as <a href="https://www.tripadvisor.com/Travel-g294472-s206/Belgrade:Serbia:Health.And.Safety.html"  target="_blank"> very safe </a> to <a href="https://www.worldnomads.com/travel-safety/europe/serbia/serbia-crime-and-tourists"  target="_blank"> relatively safe like most other large cities elsewhere in the world </a>. Governments typically advise <a href="http://smartraveller.gov.au/Countries/europe/southern/pages/serbia.aspx"  target="_blank"> exercising normal safety precautions in Serbia </a>.
 
  
  

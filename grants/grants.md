@@ -23,13 +23,12 @@ Applications have to be submitted at <https://hotcrp.doc.ic.ac.uk/eurosys17grant
 
 Students are also requested to provide:
 
-* A letter of recommendation from the advisor supporting the application. The advisor’s statement should be sent separately from the student’s application by plain text e-mail to the grant chairs (see below), and should indicate the student’s name in the "Subject" line.
+* A letter of recommendation from the advisor supporting the application. The advisor’s statement should be sent separately from the student’s application by plain text e-mail to the grant chairs (see below).  The "Subject" line should contain the keyword "Eurosys 2017" and student’s name.
 
 ## Important dates
 
-
-| Applications due							| (: outdate date:"17/3/2017" :)	|
-| Notification of acceptance		| (: outdate date:"24/3/2017" :) 	|
+| Applications due							| 17 March 2017	|
+| Notification of acceptance		| 24 March 2017	|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.

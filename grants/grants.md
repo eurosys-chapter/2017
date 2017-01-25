@@ -23,7 +23,7 @@ Applications have to be submitted at <https://hotcrp.doc.ic.ac.uk/eurosys17grant
 * Abstract: State here the anticipated travel expenses
 * Participation in EuroSys 2017 ...: Describe briefly your participation in EuroSys and/or the workshops
 * Motivation statement: A short explanation of the expected benefits from attending the conference and why the grant should be awarded. The statement should describe ongoing research and recent papers published by the applicant. It should be no longer than one page. Please write in English and use ASCII-only text.
-* Do _NOT_ submit at PDF file, even though the site may ask for one.
+* Do _NOT_ submit at PDF file, even though the site asks for one. Your application is complete and will be considered without a PDF file, assuming you fill in the fields above.
 
 Students are also requested to provide:
 

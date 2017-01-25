@@ -31,8 +31,8 @@ Students are also requested to provide:
 
 ## Important dates
 
-| Applications due							| 17 March 2017	|
-| Notification of acceptance		| 24 March 2017	|
+| Applications due							| 15 March 2017	|
+| Notification of acceptance		| 22 March 2017	|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.

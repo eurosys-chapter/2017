@@ -2,13 +2,13 @@
 layout: default
 title: Grants
 permalink: /grants
-published: false
+published: true
 ---
 # Grants
 
-EuroSys, with generous donations from our supporters, offers several grants to enable students, post-docs, and faculty worldwide to attend the conference. The grants cover the EuroSys conference registration, including meals, and possibly some funding toward accommodation and travel expenses.
+Thanks to generous donations from our supporters EuroSys offers several grants to enable students, post-docs, and faculty worldwide to attend the conference. The grants cover the EuroSys conference registration, including meals, and possibly some contribution toward accommodation and travel expenses.
 
-Grants will be awarded by the grant committee based on a combination of need and merit. Students receiving a travel grant need to agree to serve as a session scribe (if required) during the conference. Applicants are encouraged to participate to the poster session and the workshops.
+Grants will be awarded by the grant committee based on a combination of need and merit. Students receiving a travel grant need to agree to serve as a session scribe (if required) during the conference. Applicants are encouraged to participate in the poster session and the workshops.
 
 ## Who can apply?
 
@@ -16,20 +16,20 @@ Funding is available to all students, post-docs, and faculty at educational inst
 
 ## How to apply
 
-Applications have to be submitted at <https://ess.cs.tu-dortmund.de/eurosys2015-grants/> (a hotcrp-based submission site). The following information is requested from all applicants:
+Applications have to be submitted at <https://hotcrp.doc.ic.ac.uk/eurosys17grants/>. This is a HotCRP-based submission site that collects applications. The following information is requested from all applicants:
 
-* The completed submission form, which asks for name and affiliation, participation in the EuroSys 2015 program, and the anticipated travel expenses.
-* A short position paper explaining what benefits are expected from attending the conference and why the grant should be awarded. The statement should describe ongoing research and recent papers published by the applicant. It should be no longer than one page. Please write in English and upload the position paper as a PDF file.
+* The completed submission form, which asks for name and affiliation, participation in the EuroSys program, and the anticipated travel expenses.
+* A short explanation of the expected benefits from attending the conference and why the grant should be awarded. The statement should describe ongoing research and recent papers published by the applicant. It should be no longer than one page. Please write in English and use ASCII-only text, and paste the explanation into the "Abstract" field.
 
 Students are also requested to provide:
 
-* A letter of recommendation from the advisor supporting the application. The advisor’s statement should be sent separately from the student’s application by plain text e-mail to both grant chairs (see below), and should indicate the student’s name in the "Subject" line.
+* A letter of recommendation from the advisor supporting the application. The advisor’s statement should be sent separately from the student’s application by plain text e-mail to the grant chairs (see below), and should indicate the student’s name in the "Subject" line.
 
 ## Important dates
 
 
-| Applications due							| (: outdate date:"13/3/2015" :)	|
-| Notification of acceptance		| (: outdate date:"17/3/2015" :) 	|
+| Applications due							| (: outdate date:"17/3/2017" :)	|
+| Notification of acceptance		| (: outdate date:"24/3/2017" :) 	|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.
@@ -42,5 +42,7 @@ Receivers of a EuroSys Grant will register with a special promotion code. Theref
 
 For more information, contact the grant co-chairs:
 
-* Gilles Muller, Inria / LIP6, <gilles.muller@lip6.fr>.
-* Olaf Spinczyk, Technische Universität Dortmund, <olaf.spinczyk@tu-dortmund.de>.
+* [Christian Cachin](https://www.zurich.ibm.com/~cca/), IBM Research - Zurich
+* [Rüdiger Kapitza](https://www.ibr.cs.tu-bs.de/users/kapitza/), TU Braunschweig
+
+<eurosys17grants-chairs@ibr.cs.tu-bs.de>

@@ -18,7 +18,7 @@ Funding is available to all students, post-docs, and faculty at educational inst
 
 Applications have to be submitted at <https://hotcrp.doc.ic.ac.uk/eurosys17grants/>. This is a HotCRP-based submission site that collects applications. The following information is requested from all applicants:
 
-* Paper title: Grant application
+* Paper title (fixed): Grant application
 * Author (only one): Give your name, email, and affiliation
 * Abstract: State here the anticipated travel expenses
 * Participation in EuroSys 2017 ...: Describe briefly your participation in EuroSys and/or the workshops

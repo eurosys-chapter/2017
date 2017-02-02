@@ -62,7 +62,9 @@ The full conference fees include:
 
 ## NEW! Childcare
 
-Eurosys, in cooperation with ACM SIGOPS, is pleased to offer, for the first time, complimentary childcare at Eurosys 2017 in the conference hotel. Space is limited. Please indicate the number and the age of children you will bring during the registration process, as well as desired time of the day for childcare for each day of the workshops/conference (Sunday - Wednesday). We will then contact you with details.
+Eurosys, in cooperation with ACM SIGOPS, is pleased to offer, for the first time, complimentary childcare at Eurosys 2017 in the conference hotel. Space is limited and the service is assured during workshop/conference presentations. 
+
+Please indicate the number and the age of children you will bring during the registration process, as well as desired time of the day for childcare for each day of the workshops/conference (Sunday - Wednesday). We will then contact you with details.
 
 ## Online Registration
 

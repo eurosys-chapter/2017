@@ -4,9 +4,9 @@ title: Grants
 permalink: /grants
 published: true
 ---
-# Grants
+# EuroSys Grants
 
-Thanks to generous donations from our supporters EuroSys offers several grants to enable students, post-docs, and faculty worldwide to attend the conference. The grants cover the EuroSys conference registration, including meals, and possibly some contribution toward accommodation and travel expenses.
+Thanks to generous donations from our supporters, the sponsors, and ACM SIGOPS, EuroSys offers several grants to enable students, post-docs, and faculty worldwide to attend the conference. The grants cover the EuroSys conference registration, including meals, and possibly some contribution toward accommodation and travel expenses.
 
 Grants will be awarded by the grant committee based on a combination of need and merit. Students receiving a travel grant need to agree to serve as a session scribe (if required) during the conference. Applicants are encouraged to participate in the poster session and the workshops.
 

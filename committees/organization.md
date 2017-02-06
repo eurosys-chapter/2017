@@ -21,7 +21,7 @@ published: true
 * Nikola Vujić, Microsoft Development Center Serbia
 
 ## Local Arrangements Chairs
-* Nikola Knežević, IMC Financial Markets
+* Nikola Knežević, Leonteq Securities
 * Dragan Tomić, Microsoft Development Center Serbia
 
 ## Posters Chair

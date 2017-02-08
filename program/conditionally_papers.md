@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accepted papers
-permalink: /program/papers
+permalink: /program/conditionally_papers
 published: true
 ---
 

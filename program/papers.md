@@ -10,10 +10,10 @@ published: true
 Of 200 submissions, the Program Committee has selected 41 papers for the third round of reviewing (shepherding). This is the list of conditionally accepted papers, please note that the list might differ from the final list of accepted papers.
 
 
-* **Pandia: comprehensive contention-sensitive thread placement**
+* **Pandia: comprehensive contention-sensitive thread placement**  
    Daniel Goodman, Tim Harris, and Georgios Varisteas (*Oracle Labs*)
 
-* **Taming Parallelism in a Multi-Variant Execution Environment**
+* **Taming Parallelism in a Multi-Variant Execution Environment**  
    Stijn Volckaert (*University of California, Irvine*), Bart Coppens, Bjorn De Sutter, and Koen De Bosschere (*Ghent University*), Per Larsen (*Immunant, Inc.*), and Michael Franz (*University of California, Irvine*)
 
 * **Statistical Analysis of Latency Through Semantic Profiling**

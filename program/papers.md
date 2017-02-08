@@ -2,138 +2,134 @@
 layout: default
 title: Accepted papers
 permalink: /program/papers
-published: false
+published: true
 ---
-# Accepted papers
 
-{::options parse_block_html="true" /}
+# Conditionally Accepted Papers
 
-- **An Efficient Page-level FTL to Optimize Address Translation in Flash Memory**\\
-You Zhou and Fei Wu (*Huazhong University of Science and Technology, China*), Ping Huang and Xubin He (*Virginia Commonwealth University, USA*), and Changsheng Xie and Jian Zhou (*Huazhong University of Science and Technology, China*)
-    [PDF](http://dl.acm.org/authorize?N95491){:.label.label-danger target="_blank"}
+Of 200 submissions, the Program Committee has selected 41 papers for the third round of reviewing (shepherding). This is the list of conditionally accepted papers, please note that the list might differ from the final list of accepted papers.
 
-- **Application-Assisted Live Migration of Virtual Machines with Java Applications**\\
-    Kai-Yuan Hou (*University of Michigan, and Oracle America, Inc.*), Kang G. Shin (*University of Michigan*), and Jan-Lung Sung (*Oracle America, Inc.*).
-    [PDF](http://dl.acm.org/authorize?N95494){:.label.label-danger target="_blank"}
 
-- **CYRUS: Towards Client-Defined Cloud Storage**\\
-Jae Yoon Chung (*POSTECH*), Carlee Joe­Wong (*Princeton University*), Sangtae Ha (*University of Colorado*), James Won­Ki Hong (*POSTECH*), and Mung Chiang (*Princeton University*)
-    [PDF](http://dl.acm.org/authorize?N95406){:.label.label-danger target="_blank"}
+* **Pandia: comprehensive contention-sensitive thread placement**\\
+Daniel Goodman, Tim Harris, and Georgios Varisteas (*Oracle Labs*)
 
-- **Deriving and Comparing Deduplication Techniques Using a Model-Based Classification**\\
-Jürgen Kaiser, André Brinkmann and Tim Süß (*Johannes Gutenberg University Mainz*) and Dirk Meister (*Pure Storage*)
-    [PDF](http://dl.acm.org/authorize?N95490){:.label.label-danger target="_blank"}
+* **Taming Parallelism in a Multi-Variant Execution Environment**\\
+Stijn Volckaert (*University of California, Irvine*), Bart Coppens, Bjorn De Sutter, and Koen De Bosschere (*Ghent University*), Per Larsen (*Immunant, Inc.*), and Michael Franz (*University of California, Irvine*)
 
-- **SpotCheck: Designing a Derivative IaaS Cloud on the Spot Market**\\
-    Prateek Sharma, Stephen Lee, Tian Guo, David Irwin and Prashant Shenoy (*UMass Amherst*)
-    [PDF](http://dl.acm.org/authorize?N95405){:.label.label-danger target="_blank"}
+* **Statistical Analysis of Latency Through Semantic Profiling**\\
+Jiamin Huang, Barzan Mozafari, and Thomas Wenisch (*University of Michigan*)   
 
-- **Extensible Distributed Coordination**\\
-Tobias Distler and Christopher Bahn (*Friedrich-­Alexander-­Universität Erlangen-­Nürnberg (FAU)*), Alysson Bessani (*Faculdade de Ciencias/LaSIGE, University of Lisbon*), Frank Fischer (*Friedrich-­Alexander-­Universität Erlangen-­Nürnberg (FAU)*), and Flavio Junqueira (*Microsoft Research Cambridge*)
-    [PDF](http://dl.acm.org/authorize?N95499){:.label.label-danger target="_blank"}
+* **The lock holder and the lock waiter pre-emption problems: nip them in the bud using informed spinlocks (I-Spinlocks)**\\
+Boris Teabe, Vlad Nitu, Alain Tchana, and Daniel Hagimont (*IRIT/Toulouse University, France*)
 
-- **Flux: Multi-Surface Computing in Android**\\
-    Alexander Van't Hof (*Columbia University, IBM T.J. Watson Research Center*), Hani Jamjoom (*IBM T.J. Watson Research Center*), Jason Nieh (*Columbia University*), and Dan Williams (*IBM T.J. Watson Research Center*)
-    [PDF](http://dl.acm.org/authorize?N95403){:.label.label-danger target="_blank"}
+* **Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters**\\
+Youngseok Yang, Geon-Woo Kim, Won Wook Song, and Yunseong Lee (*Seoul National University*), Andrew Chung (*Carnegie Mellon University*), Zhengping Qian (*Alibaba Group*), Brian Cho (*Facebook*), and Byung-Gon Chun (*Seoul National University*)
 
-- **GD-Wheel: A Cost-Aware Replacement Policy for Key-Value Stores**\\
-Conglong Li (*Carnegie Mellon University*) and Alan L. Cox (*Rice University*)
-    [PDF](http://dl.acm.org/authorize?N95484){:.label.label-danger target="_blank"}
+* **Proteus: agile ML elasticity through tiered reliability in dynamic resource markets**\\
+Aaron Harlap (*CMU*), Alexey Tumanov (*UC Berkeley*), and Greg Ganger and Phil Gibbons (*CMU*)
 
-- **Guaranteeing Deadlines for Inter-Datacenter Transfers**\\
-    Hong Zhang, Kai Chen, and Wei Bai (*Hong Kong University of Science & Technology*), Dongsu Han (*KAIST*), Chen Tian (*Nanjing University*), Hao Wang (*Hong Kong University of Science & Technology and Shanghai Jiao Tong University*), Haibing Guan (*Shanghai Jiao Tong University*), and Ming Zhang (*Microsoft Research*)
-    [PDF](http://dl.acm.org/authorize?N95409){:.label.label-danger target="_blank"}
+* **An Empirical Study on the Correctness of Formally Verified Distributed Systems**\\
+Pedro Fonseca, Kaiyuan Zhang, Xi Wang, and Arvind Krishnamurthy (*University of Washington*)
 
-- **Guardat: Enforcing data policies at the storage layer**\\
-Anjo Vahldiek-Oberwagner, Eslam Elnikety, Aastha Mehta, Deepak Garg, Peter Druschel (MPI-SWS), Rodrigo Rodrigues (*NOVA-LINCS / FCT UNL*), Johannes Gehrke (*Microsoft/Cornell*) and Ansley Post (Google)
-    [PDF](http://dl.acm.org/authorize?N95492){:.label.label-danger target="_blank"}
+* **MiniCrypt: Reconciling Encryption and Compression for Big Data Stores**\\
+Wenting Zheng and Frank Li (*UC Berkeley*), Rachit Agarwal (*Cornell*), and Raluca Ada Popa and Ion Stoica (*UC Berkeley*)
 
-- **Hare: a file system for non-cache-coherent multicores**\\
-Charles Gruenwald III, Filippo Sironi, M. Frans Kaashoek, and Nickolai Zeldovich (*MIT CSAIL*)
-    [PDF](http://dl.acm.org/authorize?N95419){:.label.label-danger target="_blank"}
+* **SkyChat: Enabling Distributed Application Optimisations in Public Clouds**\\
+Alexandru Agache, Mihai Ionescu, and Costin Raiciu (*University Politehnica of Bucharest*)
 
-- **High-Performance Determinism with Total Store Order Consistency**\\
-Timothy Merrifield (*University of Illinois at Chicago*), Joseph Devietti (*University of Pennsylvania*), and Jakob Eriksson (*University of Illinois at Chicago*)
-    [PDF](http://dl.acm.org/authorize?N95410){:.label.label-danger target="_blank"}
+* **Syncperf: Categorizing, Detecting, and Diagnosing Synchronization Performance Bugs**\\
+Mejbah ul Alam (*University of Texas at San Antonio, USA*), Tongping Liu (*University of Texas at San Antonio, USA*), Guangming Zeng (*Linshan Road, Shanghai*), and Abdullah Muzahid (*University of Texas at San Antonio, USA*)
 
-- **IN-NET: In-Network Processing for the Masses**\\
-Radu Stoenescu, Vladimir Olteanu, and Matei Popovici (*University Politehnica of Bucharest*), Mohamed Ahmed, Joao Martins, Roberto Bifulco, Filipe Manco, and Felipe Huici (*NEC Labs Europe*), Georgios Smaragdakis (*MIT*), Mark Handley (*UCL*), and Costin Raiciu (*Universitu Politehnica of Bucharest*)
-    [PDF](http://dl.acm.org/authorize?N95402){:.label.label-danger target="_blank"}
+* **Finding Violations in the Unwritten Contract of Solid State Drives**\\
+Jun He, Sudarsun Kannan, Andrea Arpaci-Dusseau, and Remzi Arpaci-Dusseau (*University of Wisconsin - Madison*)
 
-- **Popcorn: Bridging the Programmability Gap in Heterogeneous-ISA Platforms**\\
-Antonio Barbalace, Marina Sadini, Saif Ansary, Christopher Jelesnianski, Akshay Ravichandran, Cagil Kendir, Alastair Murray, and Binoy Ravindran (*Virginia Tech*)
-    [PDF](http://dl.acm.org/authorize?N95418){:.label.label-danger target="_blank"}
+* **Node.fz: Fuzzing Server-side Event-driven JavaScript**\\
+James Davis (*Virginia Tech*), Arun Thekumparampil (*MathWorks*), and Dongyoon Lee (*Virginia Tech*)
 
-- **ConfValley: A Systematic Configuration Validation Framework for Cloud Services**\\
-Peng Huang (*UCSD*), William J. Bolosky (*Microsoft Research*), Abhishek Singh (*Microsoft*), and Yuanyuan Zhou (*UCSD*)
-    [PDF](http://dl.acm.org/authorize?N95408){:.label.label-danger target="_blank"}
+* **RFP: When RPC is Faster than Server-Bypass with RDMA**\\
+Maomeng Su, Mingxing Zhang, and Kang Chen (*Tsinghua University*), Zhenyu Guo (*Microsoft Research*), and Yongwei Wu (*Tsinghua University*)
 
-- **Large scale cluster management at Google with Borg**\\
-Abhishek Verma (*Google*), Luis David Pedrosa (*USC*), and Madhukar Korupolu, David Oppenheimer, Eric Tune, and John Wilkes (*Google*)
-    [PDF](http://dl.acm.org/authorize?N95407){:.label.label-danger target="_blank"}
+* **High-Throughput Subset Matching on Commodity GPU-Based Systems**\\
+Daniele Rogora (*Università della Svizzera italiana*), Michele Papalini (*Cisco Systems*), Koorosh Khazaei (*Università della Svizzera italiana*), Alessandrto Margara (*Politecnico di Milano*), Antonio Carzaniga (*Università della Svizzera italiana*), and Gianpaolo Cugola (*Politecnico di Milano*)
 
-- **MALT: Distributed Data-Parallelism for existing ML applications**\\
-Hao Li (*University of Maryland­College Park*) and Asim Kadav, Erik Kruus, and Cristian Ungureanu (*NEC Labs, Princeton*)
-    [PDF](http://dl.acm.org/authorize?N95482){:.label.label-danger target="_blank"}
+* **MOSAIC: Processing a Trillion-Edge Graph on a Single Commodity Machine**\\
+Steffen Maass, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim (*Georgia Institute of Technology*)
 
-- **Maxoid: Transparently Confining Mobile Applications with Custom Views of State**\\
-Yuanzhong Xu and Emmett Witchel (*The University of Texas at Austin*)
-    [PDF](http://dl.acm.org/authorize?N95415){:.label.label-danger target="_blank"}
+* **SGXBounds: Memory Safety for Shielded Execution**\\
+Dmitrii Kuvaiskii, Oleksii Oleksenko, Sergei Arnautov, Bohdan Trach, and Pramod Bhatotia (*TU Dresden*), Pascal Felber (*University of Neuchâtel*), and Christof Fetzer (*TU Dresden*)
 
-- **An In-Memory Object Caching Framework with Adaptive Load Balancing**\\
-Yue Cheng (*Virginia Tech*), Aayush Gupta (*IBM Research ­ Almaden*), and Ali R. Butt (*Virginia Tech*)
-    [PDF](http://dl.acm.org/authorize?N95483){:.label.label-danger target="_blank"}
+* **FloDB: Unlocking Memory in Persistent Key-Value Stores**\\
+Oana Balmau, Rachid Guerraoui, Vasileios Trigonakis, and Igor Zablotchi (*EPFL*)
 
-- **Musketeer: All for One, One for All in Data Processing Systems**\\
-Ionel Gog, Malte Schwarzkopf (*University of Cambridge Computer Laboratory*), Natacha Crooks (*Max Planck Institute for Software Systems*), Matthew P. Grosvenor (*University of Cambridge Computer Laboratory*), Allen Clement (*Max Planck Institute for Software Systems*), and Steven Hand (*University of Cambridge Computer Laboratory*)
-    [PDF](http://dl.acm.org/authorize?N95481){:.label.label-danger target="_blank"}
+* **Abstracting Multi-Core Topologies with MCTOP**\\
+Georgios Chatzopoulos and Rachid Guerraoui (*EPFL*), Tim Harris (*Oracle Labs*), and Vasileios Trigonakis (*EPFL*)
 
-- **NBA (Network Balancing Act): A High-performance Packet Processing Framework for Heterogeneous Processors**\\
-Joongi Kim, Keon Jang, Keunhong Lee, Sangwook Ma, Junhyun Shim, and Sue Moon (*KAIST*)
-    [PDF](http://dl.acm.org/authorize?N95401){:.label.label-danger target="_blank"}
+* **Online Reconstruction of Structural Information from Datacenter Logs**\\
+Zaheer Chothia, John Liagouris, Desislava Dimitrova, and Timothy Roscoe (*Systems Group, Department of Computer Science, ETH Zurich*)
 
-- **PowerLyra: Differentiated Graph Computation and Partitioning on Skewed Graphs**\\
-Rong Chen, Jiaxin Shi, Yanzhe Chen, and Haibo Chen (*Shanghai Jiao Tong University*)
-    [PDF](http://dl.acm.org/authorize?N95480){:.label.label-danger target="_blank"}
+* **An interface to implement NUMA policies in the Xen hypervisor**\\
+Gauthier Voron (*INRIA/LIP6*), Gaël Thomas (*Telecom SudParis*), Vivien Quéma (*Grenoble INP / ENSIMAG*), and Pierre Sens (*INRIA/LIP6*)
 
-- **Process-level Power Estimation in VM-based Systems**\\
-Maxime Colmant (*ADEME / University of Lille 1 / Inria*), Mascha Kurpicz and Pascal Felber (*University of Neuchatel*), Loic Huertas (*Inria / University of Lille 1*), Romain Rouvoy (*University of Lille 1 / Inria*), and Anita Sobe (*University of Neuchatel*)
-    [PDF](http://dl.acm.org/authorize?N95493){:.label.label-danger target="_blank"}
+* **Direct Inter-Process Communication (*dIPC*): Repurposing the CODOMs Architecture to Accelerate IPC**\\
+Lluís Vilanova, Marc Jordà, and Nacho Navarro (*UPC / BSC*), Yoav Etsion (*Technion / TCE*), and Mateo Valero (*UPC / BSC*)
 
-- **Putting Consistency back into Eventual Consistency**\\
-Valter Balegas, Sérgio Duarte, Carla Ferreira, Rodrigo Rodrigues and Nuno Preguiça (*NOVA­LINCS / FCT­UNL*) and Mahsa Najafzadeh and Marc Shapiro (*LIP6 ­ UPMC / INRIA*)
-    [PDF](http://dl.acm.org/authorize?N95495){:.label.label-danger target="_blank"}
+* **COCONUT: Seamless Scale-out of Network Elements**\\
+Soudeh Ghorbani and Brighten Godfrey (*UIUC*)
 
-- **Scaling Concurrent Log-Structured Data Stores**\\
-Guy Golan­Gueta, Edward Bortnikov, and Eshcar Hillel (*Yahoo Labs*) and Idit Keidar (*Technion*)
-    [PDF](http://dl.acm.org/authorize?N95411){:.label.label-danger target="_blank"}
+* **Design and evaluation of an RDMA-aware data shuffling operator for parallel database systems**\\
+Feilong Liu, Lingyan Yin, and Spyros Blanas (*The Ohio State University*)
 
-- **Simba: Tunable End-to-End Data Consistency for Mobile Apps**\\
-Dorian Perkins (*UC Riverside and NEC Labs*), Nitin Agrawal and Akshat Aranya (*NEC Labs*), Curtis Yu (*UC Riverside*), Younghwan Go (*KAIST and NEC Labs*), Harsha Madhyastha (*University of Michigan*), and Cristian Ungureanu (*NEC Labs*)
-    [PDF](http://dl.acm.org/authorize?N95496){:.label.label-danger target="_blank"}
+* **Malthusian Locks**\\
+Dave Dice (*Oracle Labs*) and Dave Dice (*unaffiliated*)
 
-- **Synapse: A Microservices Architecture for Heterogeneous-Database Web Applications**\\
-    Nicolas Viennot, Mathias Lécuyer, Jonathan Bell, Roxana Geambasu, and Jason Nieh (*Columbia University*)
-    [PDF](http://dl.acm.org/authorize?N95400){:.label.label-danger target="_blank"}
+* **Practical Persistence for Multi-threaded Applications**\\
+Terry Ching-Hsiang Hsu (*Purdue University, Hewlett Packard Labs*), Helge Brügner, Indrajit Roy, and Kimberly Keeton (*Hewlett Packard Labs*), and Patrick Eugster (*Purdue University, TU Darmstadt*)
 
-- **Taming uncertainty in distributed systems with help from the network**\\
-Joshua B. Leners and Trinabh Gupta (*The University of Texas at Austin and New York University*), Marcos K. Aguilera (*VMware Research Group*), and Michael Walfish (*New York University*)
-    [PDF](http://dl.acm.org/authorize?N95498){:.label.label-danger target="_blank"}
+* **A Characterization of State Spill in Modern Operating Systems**\\
+Kevin Boos, Emilio Del Vecchio, and Lin Zhong (*Rice University*)
 
-- **TinMan: Eliminating Confidential Mobile Data Exposure with Security-oriented Offloading**\\
-Yubin Xia, Yutao Liu, Cheng Tan, and Mingyang Ma (*Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University*), Haibing Guan (*Department of Computer Science, Shanghai Jiao Tong University*), and Binyu Zang and Haibo Chen (*Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University*)
-    [PDF](http://dl.acm.org/authorize?N95416){:.label.label-danger target="_blank"}
+* **GfxDoctor: A Holistic Graphics Energy Profiler for Mobile Devices**\\
+Ning Ding and Y. Charlie Hu (*Purdue University*)
 
-- **Verifiable Differential Privacy**\\
-Arjun Narayan (*University of Pennsylvania*), Ariel Feldman (*University of Chicago*), and Antonis Papadimitriou and Andreas Haeberlen (*University of Pennsylvania*)
-    [PDF](http://dl.acm.org/authorize?N95417){:.label.label-danger target="_blank"}
+* **ROS: A Rack-based Optical Storage System with Inline Accessibility for Long-Term Data Preservation**\\
+Yan Wenrui, Yao Jie, and Cao Qiang (*Wuhan National Laboratory for Optoelectronics,Huazhong University of Science and Technology*), JIang Hong (*Department of Computer Science and Engineering, University of Texas at Arlington*), and Xie Changsheng (*Wuhan National Laboratory for Optoelectronics,Huazhong University of Science and Technology*)
 
-- **Visigoth Fault Tolerance**\\
-Daniel Porto and Joao Leitao (*NOVA­LINCS FCT UNL*), Cheng Li (*MPI­SWS*), Allen Clement (*MPI­SWS/Google*), Aniket Kate (*MMCI*), Flavio Junqueira (*Microsoft Research*), and Rodrigo Rodrigues (*NOVA­LINCS FCT UNL*)
-    [PDF](http://dl.acm.org/authorize?N95497){:.label.label-danger target="_blank"}
+* **Malacology: A Programmable Storage System**\\
+Michael A. Sevilla, Noah Watkins, Ivo Jimenez, Peter Alvaro, Shel Finkelstein, Jeff LeFevre, and Carlos Maltzahn (*University of California, Santa Cruz*)
 
-- **μPnP: Plug and Play Peripherals for the Internet of Things**\\
-Fan Yang, Nelson Matthys, Rafael Bachiller, Sam Michiels, Wouter Joosen, and Danny Hughes (*iMinds­DistriNet, Computer Science, KU Leuven*)
-    [PDF](http://dl.acm.org/authorize?N95404){:.label.label-danger target="_blank"}
+* **Rein: Taming Tail Latency in Key Value Stores via Multiget Scheduling**\\
+Waleed Reda (*Université catholique de Louvain & Royal Institute of Technology (KTH)*), Lalith Suresh (*VMware Research*), Sean Braithwaite (*SoundCloud*), Marco Canini (*KAUST*), and Dejan Kostić (*Royal Institute of Technology (KTH)*)
 
----
+* **Saturn: a Distributed Metadata Service for Causal Consistency**\\
+Manuel Bravo and Luis Rodrigues (*University of Lisbon*) and Peter Van Roy (*Universite Catholique de Louvain*)
+
+* **DangScrub: Practical Use-after-free Detection**\\
+Erik van der Kouwe, Vinod Nigade, and Cristiano Giuffrida (*Vrije Universiteit Amsterdam*)
+
+* **One Primitive to Diagnose Them All: Architectural Support for Internet Diagnostics**\\
+Ang Chen and Andreas Haeberlen (*University of Pennsylvania*), Wenchao Zhou (*Georgetown University*), and Boon Thau Loo (*University of Pennsylvania*)
+
+* **Hybrids on Steroids: SGX-Based High Performance BFT**\\
+Johannes Behl (*TU Braunschweig*), Tobias Distler (*FAU Erlangen-Nürnberg*), and Rüdiger Kapitza (*TU Braunschweig*)
+
+* **Forkscan: Conservative Memory Reclamation for Modern Operating Systems**\\
+Dan Alistarh (*ETH Zurich*), William M. Leiserson and Alexander Matveev (*MIT*), and Nir Shavit (*MIT and TAU*)
+
+* **Atomic In-Place Updates for Transactional Non-Volatile Main Memories**\\
+Amirsaman Memaripour (*UCSD*), Anirudh Badam and Amar Phanishayee (*Microsoft*), Yanqi Zhou (*Princeton*), Ram Alagappan (*U. of Wisconsin, Maddison*), Karin Strauss (*Microsoft*), and Steven Swanson (*UC San Diego*)
+
+* **kR^X: Comprehensive Kernel Protection against Just-In-Time Code Reuse**\\
+Marios Pomonis, Theofilos Petsios, and Angelos D. Keromytis (*Columbia University*), Michalis Polychronakis (*Stony Brook University*), and Vasileios P. Kemerlis (*Brown University*)
+
+* **No Need to Hide: Protecting Safe Regions on Commodity Hardware**\\
+Koen Koning, Cristiano Giuffrida, and Herbert Bos (*Vrije Universiteit Amsterdam*) and Elias Athanasopoulos (*University of Cyprus*)
+
+* **DStress: Efficient Differentially Private Computations on Distributed Data**\\
+Antonis Papadimitriou, Arjun Narayan, and Andreas Haeberlen (*University of Pennsylvania*)
+
+* **Eleos: ExitLess OS services for SGX enclaves**\\
+Meni Orenbach, Marina Minkin, Pavel Lifshits, and Mark Silberstein (*Technion*)
+
+* **Exploiting Spot and Burstable Instances for Improving the Cost-efficacy of In-Memory Caches on the Public Cloud**\\
+Cheng Wang and Bhuvan Urgaonkar (*Penn State University*), Aayush Gupta (*IBM Research Almaden*), and George Kesidis and Qianlin Liang (*Penn State University*)
+

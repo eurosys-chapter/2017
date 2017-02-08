@@ -11,10 +11,10 @@ Of 200 submissions, the Program Committee has selected 41 papers for the third r
 
 
 * **Pandia: comprehensive contention-sensitive thread placement**  
-   Daniel Goodman, Tim Harris, and Georgios Varisteas (*Oracle Labs*)
+Daniel Goodman, Tim Harris, and Georgios Varisteas (*Oracle Labs*)
 
 * **Taming Parallelism in a Multi-Variant Execution Environment**  
-   Stijn Volckaert (*University of California, Irvine*), Bart Coppens, Bjorn De Sutter, and Koen De Bosschere (*Ghent University*), Per Larsen (*Immunant, Inc.*), and Michael Franz (*University of California, Irvine*)
+Stijn Volckaert (*University of California, Irvine*), Bart Coppens, Bjorn De Sutter, and Koen De Bosschere (*Ghent University*), Per Larsen (*Immunant, Inc.*), and Michael Franz (*University of California, Irvine*)
 
 * **Statistical Analysis of Latency Through Semantic Profiling**
    Jiamin Huang, Barzan Mozafari, and Thomas Wenisch (*University of Michigan*)   

@@ -59,10 +59,10 @@ Jiamin Huang, Barzan Mozafari, and Thomas Wenisch (*University of Michigan*)
  Dmitrii Kuvaiskii, Oleksii Oleksenko, Sergei Arnautov, Bohdan Trach, and Pramod Bhatotia (*TU Dresden*), Pascal Felber (*University of Neuchâtel*), and Christof Fetzer (*TU Dresden*)
 
 * **FloDB: Unlocking Memory in Persistent Key-Value Stores**  
- Oana Balmau, Rachid Guerraoui, Vasileios Trigonakis, and Igor Zablotchi (*EPFL*)
+ Oana Balmau, Rachid Guerraoui (*EPFL*), Vasileios Trigonakis (*EPFL/Oracle Labs*), and Igor Zablotchi (*EPFL*)
 
 * **Abstracting Multi-Core Topologies with MCTOP**  
- Georgios Chatzopoulos and Rachid Guerraoui (*EPFL*), Tim Harris (*Oracle Labs*), and Vasileios Trigonakis (*EPFL*)
+ Georgios Chatzopoulos and Rachid Guerraoui (*EPFL*), Tim Harris (*Oracle Labs*), and Vasileios Trigonakis (*EPFL/Oracle Labs	*)
 
 * **Online Reconstruction of Structural Information from Datacenter Logs**  
  Zaheer Chothia, John Liagouris, Desislava Dimitrova, and Timothy Roscoe (*Systems Group, Department of Computer Science, ETH Zurich*)
@@ -80,7 +80,7 @@ Jiamin Huang, Barzan Mozafari, and Thomas Wenisch (*University of Michigan*)
  Feilong Liu, Lingyan Yin, and Spyros Blanas (*The Ohio State University*)
 
 * **Malthusian Locks**  
- Dave Dice (*Oracle Labs*) and Dave Dice (*unaffiliated*)
+ Dave Dice (*Oracle Labs*) 
 
 * **Practical Persistence for Multi-threaded Applications**  
  Terry Ching-Hsiang Hsu (*Purdue University, Hewlett Packard Labs*), Helge Brügner, Indrajit Roy, and Kimberly Keeton (*Hewlett Packard Labs*), and Patrick Eugster (*Purdue University, TU Darmstadt*)

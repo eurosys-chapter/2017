@@ -19,6 +19,7 @@ Preliminary program is available below. **Unless indicated differently, all even
 [HTML](https://www.google.com/calendar/embed?src=tjts8ste7ncsr48depqkc3ig5s%40group.calendar.google.com&ctz=Europe/Paris){:.label.label-info target="_blank"}
 --->
 
+------------
 
 ## Sunday, April 23 
 
@@ -39,6 +40,7 @@ See workshop pages for detailed program (will be available in late March).
 
 ### 18:00 - 20:00 Welcome Reception and Workshops Poster Session   
 
+------------
 
 ## Monday, April 24 
 
@@ -67,7 +69,7 @@ Session Chair: TBD
 
 ### 17:30 - 20:30 Poster Session  
 
-
+------------
 
 ## Tuesday, April 25 
 
@@ -98,7 +100,7 @@ Session Chair: TBD
 ### 19:30 - 23:00 Banquet Dinner 
 The banquet dinner will be held in "Top Of the Hub", restaurant & lounge, . 
 
-
+------------
 
 ## Wednesday, April 26 
 

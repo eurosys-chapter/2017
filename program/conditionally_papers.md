@@ -62,7 +62,7 @@ Jiamin Huang, Barzan Mozafari, and Thomas Wenisch (*University of Michigan*)
  Oana Balmau, Rachid Guerraoui (*EPFL*), Vasileios Trigonakis (*EPFL/Oracle Labs*), and Igor Zablotchi (*EPFL*)
 
 * **Abstracting Multi-Core Topologies with MCTOP**  
- Georgios Chatzopoulos and Rachid Guerraoui (*EPFL*), Tim Harris (*Oracle Labs*), and Vasileios Trigonakis (*EPFL/Oracle Labs	*)
+ Georgios Chatzopoulos and Rachid Guerraoui (*EPFL*), Tim Harris (*Oracle Labs*), and Vasileios Trigonakis (*EPFL/Oracle Labs*)
 
 * **Online Reconstruction of Structural Information from Datacenter Logs**  
  Zaheer Chothia, John Liagouris, Desislava Dimitrova, and Timothy Roscoe (*Systems Group, Department of Computer Science, ETH Zurich*)

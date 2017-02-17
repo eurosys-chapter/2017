@@ -2,9 +2,14 @@
 layout: default
 title: Conference program
 permalink: /program/
-published: false
+published: true
 ---
 
+#Preliminary Program
+
+Preliminary program is available below. **Unless indicated differently, all events take place in the conference hotel - Crowne Plaza Belgrade.**
+
+<!---
 # Conference at a Glance
 <div id='calendar'></div>
 
@@ -12,17 +17,107 @@ published: false
 [XML](https://www.google.com/calendar/feeds/tjts8ste7ncsr48depqkc3ig5s%40group.calendar.google.com/public/basic){:.label.label-primary target="_blank"}
 [iCal](https://www.google.com/calendar/feeds/tjts8ste7ncsr48depqkc3ig5s%40group.calendar.google.com/public/basic.ics){:.label.label-success target="_blank"}
 [HTML](https://www.google.com/calendar/embed?src=tjts8ste7ncsr48depqkc3ig5s%40group.calendar.google.com&ctz=Europe/Paris){:.label.label-info target="_blank"}
+--->
 
-## Pre-Conference (Tuesday, April 21)
 
-* [International Workshop on Automated Incident Management in Cloud (AIMC'15)](/workshops/#aimc-international-workshop-on-automated-incident-management-in-cloudhttpaimcioworkshop-scheduletargetblank)
-* [All-Web real-time Systems (AWeS 2015)](/workshops/#awes-all-web-real-time-systemshttpallwebwptem-tspeuprogramtargetblank)
-* [5th International Workshop on Cloud Data and Platforms (CloudDP 2015)](/workshops/#clouddp-5th-international-workshop-on-cloud-data-and-platformhttpwwwgsdinesc-idptlveigaclouddpprogramtargetblank)
-* [2015 European Workshop on System Security (EuroSec 2015)](/workshops/#eurosec-2015-european-workshop-on-system-securityhttpwwwsyssec-projecteueurosec-2015programmetargetblank)
-* [Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC 2015)](/workshops/#papoc-workshop-on-principles-and-practice-of-consistency-for-distributed-datahttppapocdiuminhoptprogramhtmltargetblank)
-* [The 5th Workshop on Systems for Future Multicore Architectures (SFMA'15)](/workshops/#sfma-5th-workshop-on-systems-for-future-multicore-architectureshttpwwwsfma2015orgworkshop-programtargetblank)
-* [Second International Workshop on Rack-scale Computing (WRSC 2015)](/workshops/#wrsc-second-international-workshop-on-rack-scale-computinghttpresearchmicrosoftcomen-useventswrsc2015targetblank)
-* [9th EuroSys Doctoral Workshop](/workshops/#th-eurosys-doctoral-workshophttpseurodw15cswashingtonedutargetblank)
+## Sunday, April 23 
+
+### 8:30 - 9:00 Registration/Check-In 
+
+### 9:00 - 18:00 Workshops 
+
+See workshop pages for detailed program (will be available in late March).
+
+* <a href="http://software.imdea.org/Conferences/PAPOC17/" target="_blank"> Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC 2017)</a>
+* <a href="http://www.comp.lancs.ac.uk/~elkhatib/crosscloud/" target="_blank"> 4th International Workshop on Cross-Cloud Systems (CrossCloud 2017) </a>
+* <a href="http://www.sharcs-project.eu/eurosec-2017/" target="_blank"> 10th European Workshop on System Security (EuroSec 2017) </a> 
+* <a href="http://cuc.ucc.ie/CloudNG2017/" target="_blank"> Workshop on Next Generation Cloud Architectures (CloudNG'17) </a> 
+* <a href="http://sites.google.com/site/mars2017eurosys/home" target="_blank"> 7th workshop on Multi-core Architectures and Rack-Scale computing (MARS'17) </a> 
+* <a href="http://xdom0-2017.supercloud-project.eu/" target="_blank"> Workshop on Security and Dependability of Multi-Domain Infrastructures (XDOM0 2017) </a>
+* <a href="http://ladisworkshop.org/" target="_blank"> Workshop on Large Scale Distributed Systems and Middleware (LADIS 2017) </a>  
+* <a href="http://eurodw17.kaust.edu.sa/" target="_blank"> 11th Eurosys Doctoral Workshop (EuroDW'17)</a>  
+
+### 18:00 - 20:00 Welcome Reception and Workshops Poster Session   
+
+
+## Monday, April 24 
+
+### 8:30 - 9:00 Registration/Check-In 
+
+### 9:00 - 9:30 Opening and Awards Ceremony 
+
+### 9:30 - 10:50 Research Session 1: Networks in Data Centers 
+Session Chair: Dejan Kostić (KTH Royal Insititue of Technology) 
+
+### 10:50 - 11:20 Coffee break
+ 
+### 11:20 - 12:40 Research Session 2: Serving Data Fast
+Session Chair: TBD
+
+### 12:40 - 14:10 Lunch
+
+
+### 14:10 - 15:30 Research Session 3: Storage & Server Management 
+Session Chair: TBD
+
+### 15:30 - 16:00 Coffee break
+ 
+### 16:00 - 17:20 Research Session 4: Privacy & Security
+Session Chair: TBD
+
+### 17:30 - 20:30 Poster Session  
+
+
+
+## Tuesday, April 25 
+
+### 8:00 - 8:40 Registration/Check-In  
+
+### 8:40 - 10:20 Research Session 5: Parallelism & Scheduling 
+Session Chair: TBD 
+
+### 10:20 - 10:50 Coffee break
+ 
+### 10:50 - 12:10 Research Session 6: Diagnosis & Forensics
+Session Chair: TBD
+
+### 12:10 - 13:40 Lunch
+
+
+### 13:40 - 15:00 Research Session 7: OS Security 
+Session Chair: TBD
+
+### 15:00 - 15:30 Coffee break
+ 
+### 15:30 - 16:50 Research Session 8: Memory in Systems
+Session Chair: TBD
+
+### 16:50 - 18:00 General Assembly
+
+  
+### 19:30 - 23:00 Banquet Dinner 
+The banquet dinner will be held in "Top Of the Hub", restaurant & lounge, . 
+
+
+
+## Wednesday, April 26 
+
+### 8:30 - 9:00 Registration/Check-In  
+
+### 9:00 - 10:20 Research Session 9: Algorithms & Computation 
+Session Chair: TBD 
+
+### 10:20 - 10:50 Coffee break
+ 
+### 10:50 - 12:10 Research Session 10: Cloud
+Session Chair: TBD
+
+### 12:10 - 12:30 Closing 
+
+
+
+<!---
+
 
 ## Conference
 
@@ -234,3 +329,4 @@ published: false
 [Back to program at a glance](#conference-at-a-glance)
 
 ---
+--->

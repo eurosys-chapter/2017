@@ -219,3 +219,11 @@ div.logo-footer img {
 .clear {
   clear: both;
 }
+
+.fc-scroller,
+.fc-day-grid-container,    /* these divs might be assigned height, which we need to cleared */
+.fc-time-grid-container {  /* */
+	overflow: visible !important;
+	height: auto !important;
+}
+

@@ -56,7 +56,7 @@ Official taxis departing from Belgrade airport have the flat rate fares to desti
 * 1800 RSD (or 18 EUR) for Zone 2, which includes destinations/hotels in the "old Belgrade" - across the Sava river.
 
 
-**Please take a taxi receipt at the TAXI INFO information desk in the baggage claim hall, which contains the name of your destination and appropriate price for the taxi service.**
+**Before taking a taxi, please take a taxi receipt at the TAXI INFO information desk in the baggage claim hall, which will contain the name of your destination and appropriate price for the taxi service.**
 
 
 

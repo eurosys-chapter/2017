@@ -45,7 +45,7 @@ $(document).ready(function() {
 		},
 		firstDay: 1,
 		allDaySlot: false,
-		minTime: '08:30',
+		minTime: '08:00',
 		maxTime: '23:00',
                 eventRender: function (event, element) {
                         if (event.title.search("Coffee break|Lunch")!=-1) {

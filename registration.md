@@ -66,6 +66,8 @@ Eurosys, in cooperation with ACM SIGOPS, is pleased to offer, for the first time
 
 Please indicate the number and the age of children you will bring during the registration process, as well as desired time of the day for childcare for each day of the workshops/conference (Sunday - Wednesday). We will then contact you with details.
 
+**Please note:** Due to organizational and space limitations, late registrants (i.e., those registering after March 31st) are unlikely to be able to benefit from the childcare service.  
+
 ## Online Registration
 
 <a href="https://www.regonline.com/eurosys-2017" target="_blank"> Click here to register online for Eurosys 2017</a>

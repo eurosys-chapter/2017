@@ -5,9 +5,11 @@ permalink: /program/
 published: true
 ---
 
-# Preliminary Program
+# Conference Program
 
-Preliminary program is available below. **Unless indicated differently, all events take place in the conference hotel - Crowne Plaza Belgrade.**
+Conference program is available below. 
+
+**Unless indicated differently, all events take place in the conference hotel - Crowne Plaza Belgrade.**
 
 {::options parse_block_html="true" /}
 

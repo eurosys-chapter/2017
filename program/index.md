@@ -9,7 +9,7 @@ published: true
 
 Conference program is available below. 
 
-**Note that. with exception of the banquet dinner on Tuesday evening, all events take place in the conference hotel - Crowne Plaza Belgrade.**
+**Note that, with the exception of the banquet dinner on Tuesday evening, all events take place in the conference hotel - Crowne Plaza Belgrade.**
 
 {::options parse_block_html="true" /}
 

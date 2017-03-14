@@ -52,7 +52,7 @@ Jiamin Huang, Barzan Mozafari, and Thomas Wenisch (*University of Michigan*)
 * **High-Throughput Subset Matching on Commodity GPU-Based Systems**  
  Daniele Rogora (*Università della Svizzera italiana*), Michele Papalini (*Cisco Systems*), Koorosh Khazaei (*Università della Svizzera italiana*), Alessandrto Margara (*Politecnico di Milano*), Antonio Carzaniga (*Università della Svizzera italiana*), and Gianpaolo Cugola (*Politecnico di Milano*)
 
-* **MOSAIC: Processing a Trillion-Edge Graph on a Single Commodity Machine**  
+* **MOSAIC: Processing a Trillion-Edge Graph on a Single Machine**  
  Steffen Maass, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim (*Georgia Institute of Technology*)
 
 * **SGXBounds: Memory Safety for Shielded Execution**  

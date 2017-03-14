@@ -11,8 +11,8 @@ The poster session provides a great opportunity to engage with attendees about y
 
 ## Important Deadlines
 
-|Poster Submission				|March 10, 2017	|
-|Author Notification 			|March 17, 2017	|
+|Poster Submission				|~~March 10, 2017~~ March 17, 2017 (extended)	|
+|Author Notification 			|~~March 17, 2017~~ March24, 2017 (extended)	|
 {:class='table table-bordered table-striped'}
 
 *All deadline times are [Anywhere on Earth](http://www.worldtimezone.com/time/wtzresult.php?CiID=42242)*.

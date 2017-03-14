@@ -27,7 +27,7 @@ Applications have to be submitted at [serbian-junior-grants@eurosys2017.org](mai
 ## Important dates
 
 
-|Applications due				|~~ March 10, 2017 ~~	|
+|Applications due				| ~~March 10, 2017~~	|
 |Notification of acceptance			|March 24, 2017	|
 {:class='table table-bordered table-striped'}
 

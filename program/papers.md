@@ -40,7 +40,7 @@ Jiamin Huang, Barzan Mozafari, and Thomas Wenisch (*University of Michigan*)
 * **Syncperf: Categorizing, Detecting, and Diagnosing Synchronization Performance Bugs**  
  Mejbah ul Alam (*University of Texas at San Antonio, USA*), Tongping Liu (*University of Texas at San Antonio, USA*), Guangming Zeng (*Linshan Road, Shanghai*), and Abdullah Muzahid (*University of Texas at San Antonio, USA*)
 
-* **Finding Violations in the Unwritten Contract of Solid State Drives**  
+* **The Unwritten Contract of Solid State Drives**  
  Jun He, Sudarsun Kannan, Andrea Arpaci-Dusseau, and Remzi Arpaci-Dusseau (*University of Wisconsin - Madison*)
 
 * **Node.fz: Fuzzing Server-side Event-driven JavaScript**  

@@ -2,7 +2,7 @@
 layout: default
 title: Accepted papers
 permalink: /program/papers
-published: true
+published: false
 ---
 
 # Accepted Papers

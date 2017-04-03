@@ -35,7 +35,7 @@ Research Session 2: Serving Data Fast
 <i> Oana Balmau, Rachid Guerraoui (EPFL), Vasileios Trigonakis (EPFL and Oracle Labs), and Igor Zablotchi (EPFL) </i> </p>
 
 <p> 12:00 - 12:20 <b> Rein: Taming Tail Latency in Key Value Stores via Multiget Scheduling </b> <br>
-<i> Waleed Reda (Université catholique de Louvain & Royal Institute of Technology (KTH)), Lalith Suresh (VMware Research), Sean Braithwaite (SoundCloud), Marco Canini (KAUST), and Dejan Kostić (Royal Institute of Technology (KTH)) </i> </p>
+<i> Waleed Reda (Université catholique de Louvain & Royal Institute of Technology (KTH)), Marco Canini (KAUST), Lalith Suresh (VMware Research), Dejan Kostić (Royal Institute of Technology (KTH)), and Sean Braithwaite (SoundCloud)</i> </p>
 
 <p> 12:20 - 12:40 <b> Saturn: a Distributed Metadata Service for Causal Consistency </b> <br>
 <i> Manuel Bravo and Luis Rodrigues (University of Lisbon) and Peter Van Roy (Universite Catholique de Louvain) </i> </p>
@@ -196,7 +196,7 @@ Research Session 10: Cloud
 <i> Youngseok Yang, Geon-Woo Kim, Won Wook Song, and Yunseong Lee (Seoul National University), Andrew Chung (Carnegie Mellon University), Zhengping Qian (Alibaba Group), Brian Cho (Facebook), and Byung-Gon Chun (Seoul National University) </i> </p>
 
 <p> 11:10 - 11:30 <b> Proteus: agile ML elasticity through tiered reliability in dynamic resource markets </b> <br>
-<i> Aaron Harlap (CMU), Alexey Tumanov (UC Berkeley), and Greg Ganger and Phil Gibbons (CMU) </i> </p>
+<i> Aaron Harlap (CMU), Alexey Tumanov (UC Berkeley), Andrew Chung (CMU) Greg Ganger, and Phil Gibbons (CMU) </i> </p>
 
 <p> 11:30 - 11:50 <b> SkyChat: Enabling Distributed Application Optimisations in Public Clouds </b> <br>
 <i> Alexandru Agache, Mihai Ionescu, and Costin Raiciu (University Politehnica of Bucharest) </i> </p>

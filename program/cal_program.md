@@ -72,7 +72,7 @@ Research Session 4: Privacy & Security
 <i> Wenting Zheng and Frank Li (UC Berkeley), Rachit Agarwal (Cornell), and Raluca Ada Popa and Ion Stoica (UC Berkeley) </i> </p>
 
 <p> 16:20 - 16:40 <b> SGXBounds: Memory Safety for Shielded Execution </b> <br>
-<i> Dmitrii Kuvaiskii, Oleksii Oleksenko, Sergei Arnautov, Bohdan Trach, and Pramod Bhatotia (TU Dresden), Pascal Felber (University of Neuchâtel), and Christof Fetzer (TU Dresden) </i> </p>
+<i> Dmitrii Kuvaiskii, Oleksii Oleksenko, Sergei Arnautov, Bohdan Trach, and Pramod Bhatotia (University of Edinburgh), Pascal Felber (University of Neuchâtel), and Christof Fetzer (TU Dresden) </i> </p>
 
 <p> 16:40 - 17:00 <b> Hybrids on Steroids: SGX-Based High Performance BFT </b> <br>
 <i> Johannes Behl (TU Braunschweig), Tobias Distler (FAU Erlangen-Nürnberg), and Rüdiger Kapitza (TU Braunschweig) </i> </p>

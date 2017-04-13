@@ -48,7 +48,7 @@ Research Session 3: Storage & Server Management
 
 <p> Session Chair: Peter Pietzuch (Imperial, UK) </p>
 
-<p> 14:10 - 14:30 <b> Finding Violations in the Unwritten Contract of Solid State Drives </b> <br>
+<p> 14:10 - 14:30 <b> The Unwritten Contract of Solid State Drives </b> <br>
 <i> Jun He, Sudarsun Kannan, Andrea Arpaci-Dusseau, and Remzi Arpaci-Dusseau (University of Wisconsin - Madison) </i> </p>
 
 <p> 14:30 - 14:50 <b> Node.fz: Fuzzing Server-side Event-driven JavaScript </b> <br>

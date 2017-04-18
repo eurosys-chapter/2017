@@ -68,7 +68,7 @@ Research Session 4: Privacy & Security
 
 <p> Session Chair: Herbert Bos (VU, The Netherlands) </p>
 
-<p> 16:00 - 16:20 <a href="https://doi.org/10.1145/3064176.3064184"> <b> 	MiniCrypt: Reconciling Encryption and Compression for Big Data Stores </b> </a> </br>
+<p> 16:00 - 16:20 <a href="https://doi.org/10.1145/3064176.3064184"> <b> MiniCrypt: Reconciling Encryption and Compression for Big Data Stores </b> </a> </br>
 <i> Wenting Zheng and Frank Li (UC Berkeley), Rachit Agarwal (Cornell), and Raluca Ada Popa and Ion Stoica (UC Berkeley) </i> </p>
 
 <p> 16:20 - 16:40 <a href="https://doi.org/10.1145/3064176.3064192"> <b> SGXBOUNDS: Memory Safety for Shielded Execution </b> </a> </br>

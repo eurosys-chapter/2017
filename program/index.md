@@ -91,13 +91,17 @@ $(document).ready(function() {
             right: ''
         },
         eventRender: function (event, element) {
-			element.find('.fc-list-item-time').wrapInner("<h3></h3>")
-			element.find('.fc-list-item-marker').remove()
-			element.find('.fc-list-item-title').wrapInner("<h3 id=\""+event.id+"\"></h3>")
-			
-			if (typeof(event.description) != 'undefined') {
-				element.find('.fc-list-item-title').append("<div>"+event.description+"</div>")
-			}
+            event.url = null;
+            element.removeClass('fc-has-url')
+            element.find('.fc-list-item-time').wrapInner("<h3></h3>");
+            element.find('.fc-list-item-marker').remove();
+            
+            element.find('.fc-list-item-title').empty();
+            element.find('.fc-list-item-title').append("<h3 id=\""+event.id+"\">"+event.title+"</h3>");
+
+            if (typeof(event.description) != 'undefined') {
+                element.find('.fc-list-item-title').append("<div>"+event.description+"</div>");
+            }
         }
 	});
 });

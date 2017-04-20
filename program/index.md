@@ -7,7 +7,9 @@ published: true
 
 # Conference Program
 
-Conference program is available below. 
+Conference program is available below.
+
+The program is now also available in our <a href="https://whova.com/portal/euros_201704" target="_blank">Eurosys2017 App</a> powered by Whova.
 
 **Note that, with the exception of the banquet dinner on Tuesday evening, all events take place in the conference hotel - Crowne Plaza Belgrade.**
 

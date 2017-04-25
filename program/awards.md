@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Awards
-permalink: /program/awards
+permalink: /program/awards/
 published: true
 ---
 # Awards

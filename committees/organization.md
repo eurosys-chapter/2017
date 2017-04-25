@@ -47,3 +47,7 @@ published: true
 ## Workshop Chairs
 * [Etienne Rivière](http://members.unine.ch/etienne.riviere/), University of Neuchatel
 * [Paolo Romano](http://www.gsd.inesc-id.pt/~romanop/), University of Lisbon
+
+
+## Belgrade Nightlife Chair
+* [Ana Vukolić](http://www.mhs.biol.ethz.ch/research/krek/group-members-krek/vukolic.html), ETH Zurich

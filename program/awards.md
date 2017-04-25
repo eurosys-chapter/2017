@@ -1,34 +1,31 @@
 ---
 layout: default
 title: Awards
-permalink: /program/awars
-published: false
+permalink: /program/awards
+published: true
 ---
 # Awards
 
-## Best paper award
+## Best Paper Award
 
-![Best paper Award](/assets/img/awards/bestpaper.png){:.awards}
+![Best Paper Award](/assets/img/awards/awards-best-paper.png){:.awards}
 
-## Best student paper award
+## Best Student Paper Award
 
-![Best paper Award](/assets/img/awards/beststudent.png){:.awards}
+![Best Student Paper Award](/assets/img/awards/awards-best-student-paper.png){:.awards}
 
-## Needham dissertation award
+## Needham Dissertation Award
 
-(chair: Fernando Pedone, USI)
+![Needham Dissertation Award](/assets/img/awards/awards-needham.png){:.awards}
 
-![Best paper Award](/assets/img/awards/needham.png){:.awards}
+## Liedtke Young Researcher Award
 
+![Liedtke Young Researcher Award](/assets/img/awards/awards-jochen-liedtke.png){:.awards}
 
-##  Liedtke young researcher award
+## EuroSys Test of Time Award
 
-(chair: Andrew Tanenbaum, VU Amsterdam)
+![EuroSys Test of Time Award](/assets/img/awards/awards-test-of-time.png){:.awards}
 
-![Best paper Award](/assets/img/awards/liedtke.png){:.awards}
+## EuroSys Lifetime Achievement Award
 
-## Eurosys lifetime achievement award
-
-(chair: Andrew Birrell)
-
-![Best paper Award](/assets/img/awards/lifetime.png){:.awards}
+![BEuroSys Lifetime Achievement Award](/assets/img/awards/awards-lifetime.png){:.awards}

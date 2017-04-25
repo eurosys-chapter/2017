@@ -190,7 +190,7 @@ Research Session 9: Algorithms & Computation
 
 Research Session 10: Cloud
 
-<p> Session Chair: Marco Canini (KAUST, Saudi Arabia) </p>
+<p> Session Chair: Luis Rodrigues (INESC-ID, Portugal) </p>
 
 <p> 10:50 - 11:10 <a href="https://doi.org/10.1145/3064176.3064181"> <b> Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters </b> </a> </br>
 <i> Youngseok Yang, Geon-Woo Kim, Won Wook Song, and Yunseong Lee (Seoul National University), Andrew Chung (Carnegie Mellon University), Zhengping Qian (Alibaba Group), Brian Cho (Facebook), and Byung-Gon Chun (Seoul National University) </i> </p>

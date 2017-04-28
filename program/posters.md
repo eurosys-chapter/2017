@@ -76,3 +76,28 @@ published: true
 *These posters will be co-located with conference from the main conference during the 3-hour poster session on Monday 24 April 2017.*
 
 *Posters of accepted EuroSys'17 workshops will be co-located with the 2-hour welcome reception on Sunday 23 April 2017.*
+
+
+## Best Student Poster Award
+
+The EuroSys 2017 open call for posters received 28 submissions. These posters
+were evaluated by a poster program committee consisting of Phillip Stanley-
+Marbell (University of Cambridge), Francisco Ballesteros (University of Rey
+Juan Carlos, Madrid), Antonio Barbalace (Huawei), Gero Dittmann (IBM
+Research), and Ivan Kuraj (MIT).
+
+The poster program committee selected 17 of these 28 submissions for
+presentation at the conference.
+
+In a second phase, at the conference poster session on Monday night, poster
+presenters had 3 minutes to convey their contributions to members of the
+poster jury. The poster jury consisted of Lydia Chen (IBM Research), David
+Cock (ETH Zurich), and Phillip Stanley-Marbell (University of Cambridge).
+There were a total of 35 posters at the poster session, (17 from open call and
+18 from the main conference).
+
+There were many very strong posters, but in the end one poster stood out both
+in the initial reviews as well as in the independent evaluation at the poster
+session: The best student poster was awarded to "Putting the OS in Control of
+DRAM with Mapping Aliases", by Marius Hillenbrand and Frank Bellosa, Karlsruhe
+Institute of Technology.

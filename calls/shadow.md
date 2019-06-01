@@ -34,7 +34,7 @@ details.
 
 
 The EuroSys shadow PC will follow roughly the same timeline as the main PC 
-(http://eurosys2017.org/). We plan to have the shadow PC meeting close in time 
+(http://2017.eurosys.org/). We plan to have the shadow PC meeting close in time 
 to the main PC meeting (week of January 16-20, 2017) and in the same place 
 (Zürich). We are also planning a one-day workshop in Zürich that week to which 
 both shadow and main PC members are invited.

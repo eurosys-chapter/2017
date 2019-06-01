@@ -45,7 +45,7 @@ Submissions should be made online at <a href="https://eusys17.ethz.ch/" target="
 
 
 <!---
-Full submission details will appear online on the conference Web site ([http://eurosys2017.org](http://eurosys2017.org)). 
+Full submission details will appear online on the conference Web site ([http://2017.eurosys.org](http://2017.eurosys.org)). 
 ---->
 
 In addition to paper presentations, EuroSys 2017 will have a poster session. Submissions for posters will open closer to the conference deadline. Accepted papers will automatically qualify for the poster session, and authors will be strongly encouraged to participate.

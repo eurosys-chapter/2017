@@ -10,7 +10,7 @@ title: EuroSys2017
 email: eurosys2017-chairs@eurosys.org
 description: Office Eurosys 2017 website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://eurosys2017.org" # the base hostname & protocol for your site
+url: "http://2017.eurosys.org" # the base hostname & protocol for your site
 
 
 # Build settings

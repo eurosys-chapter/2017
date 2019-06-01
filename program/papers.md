@@ -7,7 +7,7 @@ published: false
 
 # Accepted Papers
 
-Of 200 submissions, the Program Committee has selected 41 papers for acceptance. Program is available [here](http://eurosys2017.org/program/). 
+Of 200 submissions, the Program Committee has selected 41 papers for acceptance. Program is available [here](http://2017.eurosys.org/program/). 
 
 
 * **Pandia: comprehensive contention-sensitive thread placement**  
